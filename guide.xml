@@ -1,30 +1,403 @@
-<?xml version="1.0"?>
-<settings>
-   
-  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
-  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
-   
-  <filename>guide.xml</filename>
-  <mode></mode>
-  <postprocess grab="y" run="n">rex</postprocess>
-  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
-  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
-  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
-  <logging>on</logging>
-  <retry time-out="5">4</retry>
-  <timespan>6</timespan>
-  <update>f</update>
- 
-  <!--
-            Replace the next dummy channel entry with the channels you want.
-			You can look into the installed siteini.pack folder on your computer
-  
-            For the latest version,
-            see http://webgrabplus.com/epg-channels for the available sites/channels
-  -->
-  
-
-	 <channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="TV Globo">TV Globo</channel>
-	
- 
-</settings>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <icon src="https://www.lineup.tv.br/canais/compacto.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Globo">
+    <display-name lang="pt">TV Globo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/grd.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20230914152500 -0300" stop="20230914170500 -0300" channel="TV Globo">
+    <title lang="pt">Sessão da Tarde - Nunca Te Esquecerei</title>
+  </programme>
+  <programme start="20230914170500 -0300" stop="20230914182500 -0300" channel="TV Globo">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+  </programme>
+  <programme start="20230914182500 -0300" stop="20230914191000 -0300" channel="TV Globo">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230914191000 -0300" stop="20230914194000 -0300" channel="TV Globo">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20230914194000 -0300" stop="20230914203000 -0300" channel="TV Globo">
+    <title lang="pt">Fuzuê</title>
+  </programme>
+  <programme start="20230914203000 -0300" stop="20230914212000 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230914212000 -0300" stop="20230914222500 -0300" channel="TV Globo">
+    <title lang="pt">Terra e Paixão</title>
+  </programme>
+  <programme start="20230914222500 -0300" stop="20230915000500 -0300" channel="TV Globo">
+    <title lang="pt">Todas as Flores</title>
+  </programme>
+  <programme start="20230915000500 -0300" stop="20230915005000 -0300" channel="TV Globo">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20230915005000 -0300" stop="20230915014000 -0300" channel="TV Globo">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230915014000 -0300" stop="20230915022000 -0300" channel="TV Globo">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230915022000 -0300" stop="20230915030500 -0300" channel="TV Globo">
+    <title lang="pt">Reapresentação Novela</title>
+  </programme>
+  <programme start="20230915030500 -0300" stop="20230915040000 -0300" channel="TV Globo">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230915040000 -0300" stop="20230915060000 -0300" channel="TV Globo">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230915060000 -0300" stop="20230915083000 -0300" channel="TV Globo">
+    <title lang="pt">Bom Dia Rio</title>
+  </programme>
+  <programme start="20230915083000 -0300" stop="20230915093000 -0300" channel="TV Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230915093000 -0300" stop="20230915103500 -0300" channel="TV Globo">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230915103500 -0300" stop="20230915114500 -0300" channel="TV Globo">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230915114500 -0300" stop="20230915130000 -0300" channel="TV Globo">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20230915130000 -0300" stop="20230915132500 -0300" channel="TV Globo">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230915132500 -0300" stop="20230915144500 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230915144500 -0300" stop="20230915152500 -0300" channel="TV Globo">
+    <title lang="pt">Mulheres de Areia</title>
+  </programme>
+  <programme start="20230915152500 -0300" stop="20230915170500 -0300" channel="TV Globo">
+    <title lang="pt">Sessão da Tarde - A Lenda do Tesouro Perdido</title>
+  </programme>
+  <programme start="20230915170500 -0300" stop="20230915182500 -0300" channel="TV Globo">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+  </programme>
+  <programme start="20230915182500 -0300" stop="20230915191000 -0300" channel="TV Globo">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230915191000 -0300" stop="20230915194000 -0300" channel="TV Globo">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20230915194000 -0300" stop="20230915203000 -0300" channel="TV Globo">
+    <title lang="pt">Fuzuê</title>
+  </programme>
+  <programme start="20230915203000 -0300" stop="20230915212000 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230915212000 -0300" stop="20230915222500 -0300" channel="TV Globo">
+    <title lang="pt">Terra e Paixão</title>
+  </programme>
+  <programme start="20230915222500 -0300" stop="20230915231500 -0300" channel="TV Globo">
+    <title lang="pt">Todas as Flores</title>
+  </programme>
+  <programme start="20230915231500 -0300" stop="20230916000500 -0300" channel="TV Globo">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230916000500 -0300" stop="20230916005500 -0300" channel="TV Globo">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230916005500 -0300" stop="20230916013500 -0300" channel="TV Globo">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230916013500 -0300" stop="20230916022000 -0300" channel="TV Globo">
+    <title lang="pt">Reapresentação Novela</title>
+  </programme>
+  <programme start="20230916022000 -0300" stop="20230916031000 -0300" channel="TV Globo">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230916031000 -0300" stop="20230916035500 -0300" channel="TV Globo">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230916035500 -0300" stop="20230916060000 -0300" channel="TV Globo">
+    <title lang="pt">Vôlei</title>
+  </programme>
+  <programme start="20230916060000 -0300" stop="20230916065000 -0300" channel="TV Globo">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230916065000 -0300" stop="20230916114500 -0300" channel="TV Globo">
+    <title lang="pt">É de Casa</title>
+  </programme>
+  <programme start="20230916114500 -0300" stop="20230916130000 -0300" channel="TV Globo">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20230916130000 -0300" stop="20230916132500 -0300" channel="TV Globo">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230916132500 -0300" stop="20230916141000 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230916141000 -0300" stop="20230916155000 -0300" channel="TV Globo">
+    <title lang="pt">Sessão de Sábado - De Volta Para o Futuro</title>
+  </programme>
+  <programme start="20230916155000 -0300" stop="20230916183500 -0300" channel="TV Globo">
+    <title lang="pt">Caldeirão Com Mion</title>
+  </programme>
+  <programme start="20230916183500 -0300" stop="20230916192000 -0300" channel="TV Globo">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230916192000 -0300" stop="20230916194500 -0300" channel="TV Globo">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20230916194500 -0300" stop="20230916203000 -0300" channel="TV Globo">
+    <title lang="pt">Fuzuê</title>
+  </programme>
+  <programme start="20230916203000 -0300" stop="20230916212000 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230916212000 -0300" stop="20230916222500 -0300" channel="TV Globo">
+    <title lang="pt">Terra e Paixão</title>
+  </programme>
+  <programme start="20230916222500 -0300" stop="20230917001500 -0300" channel="TV Globo">
+    <title lang="pt">Altas Horas</title>
+  </programme>
+  <programme start="20230917001500 -0300" stop="20230917020500 -0300" channel="TV Globo">
+    <title lang="pt">Supercine - Apenas o Começo</title>
+  </programme>
+  <programme start="20230917020500 -0300" stop="20230917024500 -0300" channel="TV Globo">
+    <title lang="pt">Reapresentação Novela</title>
+  </programme>
+  <programme start="20230917024500 -0300" stop="20230917042000 -0300" channel="TV Globo">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20230917042000 -0300" stop="20230917060500 -0300" channel="TV Globo">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20230917060500 -0300" stop="20230917065500 -0300" channel="TV Globo">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20230917065500 -0300" stop="20230917072500 -0300" channel="TV Globo">
+    <title lang="pt">Globo Comunidade RJ</title>
+  </programme>
+  <programme start="20230917072500 -0300" stop="20230917081000 -0300" channel="TV Globo">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20230917081000 -0300" stop="20230917093000 -0300" channel="TV Globo">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20230917093000 -0300" stop="20230917100000 -0300" channel="TV Globo">
+    <title lang="pt">Auto Esporte</title>
+  </programme>
+  <programme start="20230917100000 -0300" stop="20230917123000 -0300" channel="TV Globo">
+    <title lang="pt">Esporte Espetacular</title>
+  </programme>
+  <programme start="20230917123000 -0300" stop="20230917141000 -0300" channel="TV Globo">
+    <title lang="pt">Temperatura Máxima - Megatubarão</title>
+  </programme>
+  <programme start="20230917141000 -0300" stop="20230917153000 -0300" channel="TV Globo">
+    <title lang="pt">Pipoca da Ivete</title>
+  </programme>
+  <programme start="20230917153000 -0300" stop="20230917180500 -0300" channel="TV Globo">
+    <title lang="pt">Futebol</title>
+  </programme>
+  <programme start="20230917180500 -0300" stop="20230917203000 -0300" channel="TV Globo">
+    <title lang="pt">Domingão Com Huck</title>
+  </programme>
+  <programme start="20230917203000 -0300" stop="20230917233500 -0300" channel="TV Globo">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20230917233500 -0300" stop="20230918002000 -0300" channel="TV Globo">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20230918002000 -0300" stop="20230918021000 -0300" channel="TV Globo">
+    <title lang="pt">The Town</title>
+  </programme>
+  <programme start="20230918021000 -0300" stop="20230918040000 -0300" channel="TV Globo">
+    <title lang="pt">Cinemaço - Os Mercenários 3</title>
+  </programme>
+  <programme start="20230918040000 -0300" stop="20230918060000 -0300" channel="TV Globo">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230918060000 -0300" stop="20230918083000 -0300" channel="TV Globo">
+    <title lang="pt">Bom Dia Rio</title>
+  </programme>
+  <programme start="20230918083000 -0300" stop="20230918093000 -0300" channel="TV Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230918093000 -0300" stop="20230918103500 -0300" channel="TV Globo">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230918103500 -0300" stop="20230918114500 -0300" channel="TV Globo">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230918114500 -0300" stop="20230918130000 -0300" channel="TV Globo">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20230918130000 -0300" stop="20230918132500 -0300" channel="TV Globo">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230918132500 -0300" stop="20230918144500 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230918144500 -0300" stop="20230918152500 -0300" channel="TV Globo">
+    <title lang="pt">Mulheres de Areia</title>
+  </programme>
+  <programme start="20230918152500 -0300" stop="20230918170500 -0300" channel="TV Globo">
+    <title lang="pt">Sessão da Tarde - Milagre Na Cela 7</title>
+  </programme>
+  <programme start="20230918170500 -0300" stop="20230918182500 -0300" channel="TV Globo">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+  </programme>
+  <programme start="20230918182500 -0300" stop="20230918191000 -0300" channel="TV Globo">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230918191000 -0300" stop="20230918194000 -0300" channel="TV Globo">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20230918194000 -0300" stop="20230918203000 -0300" channel="TV Globo">
+    <title lang="pt">Fuzuê</title>
+  </programme>
+  <programme start="20230918203000 -0300" stop="20230918212000 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230918212000 -0300" stop="20230918222500 -0300" channel="TV Globo">
+    <title lang="pt">Terra e Paixão</title>
+  </programme>
+  <programme start="20230918222500 -0300" stop="20230918231500 -0300" channel="TV Globo">
+    <title lang="pt">Todas as Flores</title>
+  </programme>
+  <programme start="20230918231500 -0300" stop="20230919005500 -0300" channel="TV Globo">
+    <title lang="pt">Tela Quente - O Som do Silêncio</title>
+  </programme>
+  <programme start="20230919005500 -0300" stop="20230919014500 -0300" channel="TV Globo">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230919014500 -0300" stop="20230919022500 -0300" channel="TV Globo">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230919022500 -0300" stop="20230919031000 -0300" channel="TV Globo">
+    <title lang="pt">Reapresentação Novela</title>
+  </programme>
+  <programme start="20230919031000 -0300" stop="20230919040000 -0300" channel="TV Globo">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230919040000 -0300" stop="20230919060000 -0300" channel="TV Globo">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230919060000 -0300" stop="20230919083000 -0300" channel="TV Globo">
+    <title lang="pt">Bom Dia Rio</title>
+  </programme>
+  <programme start="20230919083000 -0300" stop="20230919093000 -0300" channel="TV Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230919093000 -0300" stop="20230919103500 -0300" channel="TV Globo">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230919103500 -0300" stop="20230919114500 -0300" channel="TV Globo">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230919114500 -0300" stop="20230919130000 -0300" channel="TV Globo">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20230919130000 -0300" stop="20230919132500 -0300" channel="TV Globo">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230919132500 -0300" stop="20230919144500 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230919144500 -0300" stop="20230919152500 -0300" channel="TV Globo">
+    <title lang="pt">Mulheres de Areia</title>
+  </programme>
+  <programme start="20230919152500 -0300" stop="20230919170500 -0300" channel="TV Globo">
+    <title lang="pt">Sessão da Tarde - Duelo de Cordas</title>
+  </programme>
+  <programme start="20230919170500 -0300" stop="20230919182500 -0300" channel="TV Globo">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+  </programme>
+  <programme start="20230919182500 -0300" stop="20230919191000 -0300" channel="TV Globo">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230919191000 -0300" stop="20230919194000 -0300" channel="TV Globo">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20230919194000 -0300" stop="20230919203000 -0300" channel="TV Globo">
+    <title lang="pt">Fuzuê</title>
+  </programme>
+  <programme start="20230919203000 -0300" stop="20230919212000 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230919212000 -0300" stop="20230919222500 -0300" channel="TV Globo">
+    <title lang="pt">Terra e Paixão</title>
+  </programme>
+  <programme start="20230919222500 -0300" stop="20230920001000 -0300" channel="TV Globo">
+    <title lang="pt">Todas as Flores</title>
+  </programme>
+  <programme start="20230920001000 -0300" stop="20230920005000 -0300" channel="TV Globo">
+    <title lang="pt">Profissão Repórter</title>
+  </programme>
+  <programme start="20230920005000 -0300" stop="20230920014000 -0300" channel="TV Globo">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20230920014000 -0300" stop="20230920022000 -0300" channel="TV Globo">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230920022000 -0300" stop="20230920030500 -0300" channel="TV Globo">
+    <title lang="pt">Reapresentação Novela</title>
+  </programme>
+  <programme start="20230920030500 -0300" stop="20230920040000 -0300" channel="TV Globo">
+    <title lang="pt">Comédia Na Madruga</title>
+  </programme>
+  <programme start="20230920040000 -0300" stop="20230920060000 -0300" channel="TV Globo">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20230920060000 -0300" stop="20230920083000 -0300" channel="TV Globo">
+    <title lang="pt">Bom Dia Rio</title>
+  </programme>
+  <programme start="20230920083000 -0300" stop="20230920093000 -0300" channel="TV Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20230920093000 -0300" stop="20230920103500 -0300" channel="TV Globo">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+  </programme>
+  <programme start="20230920103500 -0300" stop="20230920114500 -0300" channel="TV Globo">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20230920114500 -0300" stop="20230920130000 -0300" channel="TV Globo">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20230920130000 -0300" stop="20230920132500 -0300" channel="TV Globo">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230920132500 -0300" stop="20230920144500 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20230920144500 -0300" stop="20230920152500 -0300" channel="TV Globo">
+    <title lang="pt">Mulheres de Areia</title>
+  </programme>
+  <programme start="20230920152500 -0300" stop="20230920170500 -0300" channel="TV Globo">
+    <title lang="pt">Sessão da Tarde - Motoqueiros Selvagens</title>
+  </programme>
+  <programme start="20230920170500 -0300" stop="20230920180500 -0300" channel="TV Globo">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+  </programme>
+  <programme start="20230920180500 -0300" stop="20230920184500 -0300" channel="TV Globo">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230920184500 -0300" stop="20230920191500 -0300" channel="TV Globo">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20230920191500 -0300" stop="20230920200000 -0300" channel="TV Globo">
+    <title lang="pt">Fuzuê</title>
+  </programme>
+  <programme start="20230920200000 -0300" stop="20230920203500 -0300" channel="TV Globo">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230920203500 -0300" stop="20230920212000 -0300" channel="TV Globo">
+    <title lang="pt">Terra e Paixão</title>
+  </programme>
+  <programme start="20230920212000 -0300" stop="20230920233000 -0300" channel="TV Globo">
+    <title lang="pt">Futebol</title>
+  </programme>
+  <programme start="20230920233000 -0300" stop="20230920234500 -0300" channel="TV Globo">
+    <title lang="pt">Segue o Jogo</title>
+  </programme>
+</tv>
