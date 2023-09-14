@@ -10,6 +10,31 @@
     <icon src="https://i.meuguia.tv/logos/new/tc2.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="TC CULT HDR">
+    <display-name lang="pt">TC CULT HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tc5.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC FUN HDR">
+    <display-name lang="pt">TC FUN HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tc6.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC PIPOCA HDR">
+    <display-name lang="pt">TC PIPOCA HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tc4.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC PREMIUM HDR">
+    <display-name lang="pt">TC PREMIUM HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tc1.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC TOUCH HDR">
+    <display-name lang="pt">TC TOUCH HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tc3.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20230914170500 -0300" stop="20230914182500 -0300" channel="TV Globo">
     <title lang="pt">Vale a Pena Ver de Novo</title>
   </programme>
@@ -561,5 +586,872 @@
   </programme>
   <programme start="20230919032000 -0300" stop="20230919050000 -0300" channel="TC ACTION HDR">
     <title lang="pt">Jurassic Park 3</title>
+  </programme>
+  <programme start="20230914181000 -0300" stop="20230914203000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Bacurau</title>
+  </programme>
+  <programme start="20230914203000 -0300" stop="20230914220000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Matar ou Morrer</title>
+  </programme>
+  <programme start="20230914220000 -0300" stop="20230915002000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Parasita</title>
+  </programme>
+  <programme start="20230915002000 -0300" stop="20230915025000 -0300" channel="TC CULT HDR">
+    <title lang="pt">A Criada</title>
+  </programme>
+  <programme start="20230915025000 -0300" stop="20230915041500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Como Era Gostoso o Meu Francês</title>
+  </programme>
+  <programme start="20230915041500 -0300" stop="20230915060000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Instinto</title>
+  </programme>
+  <programme start="20230915060000 -0300" stop="20230915074000 -0300" channel="TC CULT HDR">
+    <title lang="pt">A Fraternidade É Vermelha</title>
+  </programme>
+  <programme start="20230915074000 -0300" stop="20230915102500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Quando Explode a Vingança</title>
+  </programme>
+  <programme start="20230915102500 -0300" stop="20230915114500 -0300" channel="TC CULT HDR">
+    <title lang="pt">O Pato de um Milhão de Dólares</title>
+  </programme>
+  <programme start="20230915114500 -0300" stop="20230915141500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Entardecer</title>
+  </programme>
+  <programme start="20230915141500 -0300" stop="20230915160000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Houria - Dançando no Silêncio</title>
+  </programme>
+  <programme start="20230915160000 -0300" stop="20230915175000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Masculino-Feminino</title>
+  </programme>
+  <programme start="20230915175000 -0300" stop="20230915194500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Central do Brasil</title>
+  </programme>
+  <programme start="20230915194500 -0300" stop="20230915220000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Asas do Desejo</title>
+  </programme>
+  <programme start="20230915220000 -0300" stop="20230915235500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Gosto de Cereja</title>
+  </programme>
+  <programme start="20230915235500 -0300" stop="20230916020000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Os Embalos de Sábado à Noite</title>
+  </programme>
+  <programme start="20230916020000 -0300" stop="20230916040000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Noites de Paris</title>
+  </programme>
+  <programme start="20230916040000 -0300" stop="20230916061000 -0300" channel="TC CULT HDR">
+    <title lang="pt">O Jardineiro Fiel</title>
+  </programme>
+  <programme start="20230916061000 -0300" stop="20230916080000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Resistência Heroica</title>
+  </programme>
+  <programme start="20230916080000 -0300" stop="20230916090500 -0300" channel="TC CULT HDR">
+    <title lang="pt">A Ronda de Sangue</title>
+  </programme>
+  <programme start="20230916090500 -0300" stop="20230916104000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Um Divã na Tunísia</title>
+  </programme>
+  <programme start="20230916104000 -0300" stop="20230916122000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Duelo de Titãs</title>
+  </programme>
+  <programme start="20230916122000 -0300" stop="20230916142500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Os Pássaros</title>
+  </programme>
+  <programme start="20230916142500 -0300" stop="20230916162500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Fuga de Alcatraz</title>
+  </programme>
+  <programme start="20230916162500 -0300" stop="20230916182500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Top Gun - Ases Indomáveis</title>
+  </programme>
+  <programme start="20230916182500 -0300" stop="20230916201000 -0300" channel="TC CULT HDR">
+    <title lang="pt">O Terror das Mulheres</title>
+  </programme>
+  <programme start="20230916201000 -0300" stop="20230916220000 -0300" channel="TC CULT HDR">
+    <title lang="pt">O Auto da Compadecida</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230917001000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Jurassic Park: O Parque dos Dinossauros</title>
+  </programme>
+  <programme start="20230917001000 -0300" stop="20230917022500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Vidas em Jogo</title>
+  </programme>
+  <programme start="20230917022500 -0300" stop="20230917041500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Bye Bye Brasil</title>
+  </programme>
+  <programme start="20230917041500 -0300" stop="20230917060000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Quem Você Pensa que Sou</title>
+  </programme>
+  <programme start="20230917060000 -0300" stop="20230917075000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Adiós, Sabata</title>
+  </programme>
+  <programme start="20230917075000 -0300" stop="20230917100500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Asas do Desejo</title>
+  </programme>
+  <programme start="20230917100500 -0300" stop="20230917122000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Um Herói</title>
+  </programme>
+  <programme start="20230917122000 -0300" stop="20230917153500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Memórias do Cárcere</title>
+  </programme>
+  <programme start="20230917153500 -0300" stop="20230917175500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Parasita</title>
+  </programme>
+  <programme start="20230917175500 -0300" stop="20230917193000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Culpa</title>
+  </programme>
+  <programme start="20230917193000 -0300" stop="20230917220000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Esposas Ingênuas</title>
+  </programme>
+  <programme start="20230917220000 -0300" stop="20230917233500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Hiroshima, Meu Amor</title>
+  </programme>
+  <programme start="20230917233500 -0300" stop="20230918013000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Ema</title>
+  </programme>
+  <programme start="20230918013000 -0300" stop="20230918040000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Entardecer</title>
+  </programme>
+  <programme start="20230918040000 -0300" stop="20230918060000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Estômago</title>
+  </programme>
+  <programme start="20230918060000 -0300" stop="20230918073500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Quarto 212</title>
+  </programme>
+  <programme start="20230918073500 -0300" stop="20230918091000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Joe Kidd</title>
+  </programme>
+  <programme start="20230918091000 -0300" stop="20230918105500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Nós Duas</title>
+  </programme>
+  <programme start="20230918105500 -0300" stop="20230918123500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Rio, 40 Graus</title>
+  </programme>
+  <programme start="20230918123500 -0300" stop="20230918144500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Jurassic Park: O Parque dos Dinossauros</title>
+  </programme>
+  <programme start="20230918144500 -0300" stop="20230918163500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Gosto de Cereja</title>
+  </programme>
+  <programme start="20230918163500 -0300" stop="20230918182500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Quo vadis, Aida?</title>
+  </programme>
+  <programme start="20230918182500 -0300" stop="20230918202000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Filhas do Sol</title>
+  </programme>
+  <programme start="20230918202000 -0300" stop="20230918220000 -0300" channel="TC CULT HDR">
+    <title lang="pt">Quando Os Bravos Se Encontram</title>
+  </programme>
+  <programme start="20230918220000 -0300" stop="20230918235500 -0300" channel="TC CULT HDR">
+    <title lang="pt">O Último Guerreiro</title>
+  </programme>
+  <programme start="20230918235500 -0300" stop="20230919013500 -0300" channel="TC CULT HDR">
+    <title lang="pt">Halloween - A Noite do Terror</title>
+  </programme>
+  <programme start="20230919013500 -0300" stop="20230919041500 -0300" channel="TC CULT HDR">
+    <title lang="pt">O Traidor</title>
+  </programme>
+  <programme start="20230919041500 -0300" stop="20230919055500 -0300" channel="TC CULT HDR">
+    <title lang="pt">O Rebanho</title>
+  </programme>
+  <programme start="20230914170500 -0300" stop="20230914184000 -0300" channel="TC FUN HDR">
+    <title lang="pt">A Família Addams</title>
+  </programme>
+  <programme start="20230914184000 -0300" stop="20230914201500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Bob Esponja - O Filme</title>
+  </programme>
+  <programme start="20230914201500 -0300" stop="20230914220000 -0300" channel="TC FUN HDR">
+    <title lang="pt">O Príncipe do Egito</title>
+  </programme>
+  <programme start="20230914220000 -0300" stop="20230914235500 -0300" channel="TC FUN HDR">
+    <title lang="pt">As Férias da Minha Vida</title>
+  </programme>
+  <programme start="20230914235500 -0300" stop="20230915015500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Uma Ladra sem Limites</title>
+  </programme>
+  <programme start="20230915015500 -0300" stop="20230915033500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Detox Digital</title>
+  </programme>
+  <programme start="20230915033500 -0300" stop="20230915051500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Pronto, Falei</title>
+  </programme>
+  <programme start="20230915051500 -0300" stop="20230915070000 -0300" channel="TC FUN HDR">
+    <title lang="pt">A Princesa Prometida</title>
+  </programme>
+  <programme start="20230915070000 -0300" stop="20230915084000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Big Pai, Big Filho 2</title>
+  </programme>
+  <programme start="20230915084000 -0300" stop="20230915101000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Tina &amp; Téo - A Pedra Encantada</title>
+  </programme>
+  <programme start="20230915101000 -0300" stop="20230915115000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Vai que Cola - O Filme</title>
+  </programme>
+  <programme start="20230915115000 -0300" stop="20230915132500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Yugo &amp; Lala 3</title>
+  </programme>
+  <programme start="20230915132500 -0300" stop="20230915145000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Fala Sério, Mãe!</title>
+  </programme>
+  <programme start="20230915145000 -0300" stop="20230915162500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Bem-vindo ao Mundo dos Ogglies</title>
+  </programme>
+  <programme start="20230915162500 -0300" stop="20230915180000 -0300" channel="TC FUN HDR">
+    <title lang="pt">A Bailarina</title>
+  </programme>
+  <programme start="20230915180000 -0300" stop="20230915200500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Um Príncipe em Nova York</title>
+  </programme>
+  <programme start="20230915200500 -0300" stop="20230915220000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Um Tira no Jardim de Infância</title>
+  </programme>
+  <programme start="20230915220000 -0300" stop="20230915233500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Pluft, o Fantasminha</title>
+  </programme>
+  <programme start="20230915233500 -0300" stop="20230916011500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Trolls</title>
+  </programme>
+  <programme start="20230916011500 -0300" stop="20230916032500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca</title>
+  </programme>
+  <programme start="20230916032500 -0300" stop="20230916053500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Duelo de Dinastias</title>
+  </programme>
+  <programme start="20230916053500 -0300" stop="20230916070000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Ladybug - Aventura dos Insetos</title>
+  </programme>
+  <programme start="20230916070000 -0300" stop="20230916084000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Alvin e os Esquilos</title>
+  </programme>
+  <programme start="20230916084000 -0300" stop="20230916102000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Kung Fu Panda 3</title>
+  </programme>
+  <programme start="20230916102000 -0300" stop="20230916120000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Lucicreide Vai pra Marte</title>
+  </programme>
+  <programme start="20230916120000 -0300" stop="20230916132500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Brasil Animado</title>
+  </programme>
+  <programme start="20230916132500 -0300" stop="20230916150000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Dino Trem - Ilha da Aventura</title>
+  </programme>
+  <programme start="20230916150000 -0300" stop="20230916163500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Bob Esponja - O Filme</title>
+  </programme>
+  <programme start="20230916163500 -0300" stop="20230916183000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Nanny McPhee e as Lições Mágicas</title>
+  </programme>
+  <programme start="20230916183000 -0300" stop="20230916202500 -0300" channel="TC FUN HDR">
+    <title lang="pt">As Férias da Minha Vida</title>
+  </programme>
+  <programme start="20230916202500 -0300" stop="20230916220000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Meu Malvado Favorito 3</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230916234000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Os Croods</title>
+  </programme>
+  <programme start="20230916234000 -0300" stop="20230917013000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Como Treinar o Seu Dragão 2</title>
+  </programme>
+  <programme start="20230917013000 -0300" stop="20230917030500 -0300" channel="TC FUN HDR">
+    <title lang="pt">O Hóspede Penetra</title>
+  </programme>
+  <programme start="20230917030500 -0300" stop="20230917052000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Detetive Chinatown 2</title>
+  </programme>
+  <programme start="20230917052000 -0300" stop="20230917070000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Correndo Atrás</title>
+  </programme>
+  <programme start="20230917070000 -0300" stop="20230917083500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Pets - A Vida Secreta dos Bichos</title>
+  </programme>
+  <programme start="20230917083500 -0300" stop="20230917101000 -0300" channel="TC FUN HDR">
+    <title lang="pt">O Incrível Senhor Blunden</title>
+  </programme>
+  <programme start="20230917101000 -0300" stop="20230917113500 -0300" channel="TC FUN HDR">
+    <title lang="pt">É Doce!</title>
+  </programme>
+  <programme start="20230917113500 -0300" stop="20230917130500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Super Urso - Um Resgate na Cidade Grande</title>
+  </programme>
+  <programme start="20230917130500 -0300" stop="20230917144000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Quero Ficar com Polly</title>
+  </programme>
+  <programme start="20230917144000 -0300" stop="20230917164000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Uma Ladra sem Limites</title>
+  </programme>
+  <programme start="20230917164000 -0300" stop="20230917183500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Um Tira no Jardim de Infância</title>
+  </programme>
+  <programme start="20230917183500 -0300" stop="20230917201000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Pluft, o Fantasminha</title>
+  </programme>
+  <programme start="20230917201000 -0300" stop="20230917201500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Preview</title>
+  </programme>
+  <programme start="20230917201500 -0300" stop="20230917220000 -0300" channel="TC FUN HDR">
+    <title lang="pt">O Poderoso Chefinho</title>
+  </programme>
+  <programme start="20230917220000 -0300" stop="20230917233500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Shrek 2</title>
+  </programme>
+  <programme start="20230917233500 -0300" stop="20230918011500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Os Flintstones - O Filme</title>
+  </programme>
+  <programme start="20230918011500 -0300" stop="20230918030500 -0300" channel="TC FUN HDR">
+    <title lang="pt">A Candidata Honesta</title>
+  </programme>
+  <programme start="20230918030500 -0300" stop="20230918051500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca</title>
+  </programme>
+  <programme start="20230918051500 -0300" stop="20230918070000 -0300" channel="TC FUN HDR">
+    <title lang="pt">My Hero Academia: 2 Heróis - O Filme</title>
+  </programme>
+  <programme start="20230918070000 -0300" stop="20230918083000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Tina &amp; Téo - A Pedra Encantada</title>
+  </programme>
+  <programme start="20230918083000 -0300" stop="20230918100500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Yugo &amp; Lala 3</title>
+  </programme>
+  <programme start="20230918100500 -0300" stop="20230918113000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Brasil Animado</title>
+  </programme>
+  <programme start="20230918113000 -0300" stop="20230918130000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Axel - O Pequeno Grande Herói</title>
+  </programme>
+  <programme start="20230918130000 -0300" stop="20230918143500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Bem-vindo ao Mundo dos Ogglies</title>
+  </programme>
+  <programme start="20230918143500 -0300" stop="20230918163000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Detetives do Prédio Azul 3 - Uma Aventura no Fim do Mundo</title>
+  </programme>
+  <programme start="20230918163000 -0300" stop="20230918181500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Policial em Apuros 2</title>
+  </programme>
+  <programme start="20230918181500 -0300" stop="20230918182000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Preview</title>
+  </programme>
+  <programme start="20230918182000 -0300" stop="20230918202000 -0300" channel="TC FUN HDR">
+    <title lang="pt">A Escolha Perfeita 2</title>
+  </programme>
+  <programme start="20230918202000 -0300" stop="20230918220000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Os Croods</title>
+  </programme>
+  <programme start="20230918220000 -0300" stop="20230918234000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Kung Fu Panda 2</title>
+  </programme>
+  <programme start="20230918234000 -0300" stop="20230919012500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Minions</title>
+  </programme>
+  <programme start="20230919012500 -0300" stop="20230919033500 -0300" channel="TC FUN HDR">
+    <title lang="pt">Duelo de Dinastias</title>
+  </programme>
+  <programme start="20230919033500 -0300" stop="20230919052000 -0300" channel="TC FUN HDR">
+    <title lang="pt">Supercool</title>
+  </programme>
+  <programme start="20230914175500 -0300" stop="20230914200500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Jurassic World - O Mundo dos Dinossauros</title>
+  </programme>
+  <programme start="20230914200500 -0300" stop="20230914220000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Os Farofeiros</title>
+  </programme>
+  <programme start="20230914220000 -0300" stop="20230915000000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Gigi &amp; Nate - Uma Amizade Inesperada</title>
+  </programme>
+  <programme start="20230915000000 -0300" stop="20230915020500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Sonic 2 - O Filme</title>
+  </programme>
+  <programme start="20230915020500 -0300" stop="20230915035000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Codinome Banshee</title>
+  </programme>
+  <programme start="20230915035000 -0300" stop="20230915060500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Milk - A Voz da Igualdade</title>
+  </programme>
+  <programme start="20230915060500 -0300" stop="20230915080500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">O Jovem Messias</title>
+  </programme>
+  <programme start="20230915080500 -0300" stop="20230915100500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">A Boa Esposa</title>
+  </programme>
+  <programme start="20230915100500 -0300" stop="20230915123000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Voo Noturno</title>
+  </programme>
+  <programme start="20230915123000 -0300" stop="20230915142000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Entrando numa Fria Maior Ainda com a Família</title>
+  </programme>
+  <programme start="20230915142000 -0300" stop="20230915162500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">A Identidade Bourne</title>
+  </programme>
+  <programme start="20230915162500 -0300" stop="20230915181500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Agente das Sombras</title>
+  </programme>
+  <programme start="20230915181500 -0300" stop="20230915200000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Mistério em Alto Mar</title>
+  </programme>
+  <programme start="20230915200000 -0300" stop="20230915215500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">O Telefone Preto</title>
+  </programme>
+  <programme start="20230915215500 -0300" stop="20230915220000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Preview</title>
+  </programme>
+  <programme start="20230915220000 -0300" stop="20230916002000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Vingança pelo Passado</title>
+  </programme>
+  <programme start="20230916002000 -0300" stop="20230916020000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">A Fera</title>
+  </programme>
+  <programme start="20230916020000 -0300" stop="20230916035500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Sobreviva ou Morra Tentando</title>
+  </programme>
+  <programme start="20230916035500 -0300" stop="20230916054500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">A Pedreira</title>
+  </programme>
+  <programme start="20230916054500 -0300" stop="20230916080000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Börü: Esquadrão Lobo - O Filme</title>
+  </programme>
+  <programme start="20230916080000 -0300" stop="20230916094500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Pai em Dose Dupla</title>
+  </programme>
+  <programme start="20230916094500 -0300" stop="20230916114500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Gigi &amp; Nate - Uma Amizade Inesperada</title>
+  </programme>
+  <programme start="20230916114500 -0300" stop="20230916135000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Sonic 2 - O Filme</title>
+  </programme>
+  <programme start="20230916135000 -0300" stop="20230916135500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Preview</title>
+  </programme>
+  <programme start="20230916135500 -0300" stop="20230916160500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Jurassic World - O Mundo dos Dinossauros</title>
+  </programme>
+  <programme start="20230916160500 -0300" stop="20230916175000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Ameaça a Bordo</title>
+  </programme>
+  <programme start="20230916175000 -0300" stop="20230916195000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Rota de Fuga</title>
+  </programme>
+  <programme start="20230916195000 -0300" stop="20230916220000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Pânico VI</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230917001000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Baywatch - S.O.S Malibu</title>
+  </programme>
+  <programme start="20230917001000 -0300" stop="20230917014500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">O Mentiroso</title>
+  </programme>
+  <programme start="20230917014500 -0300" stop="20230917034000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">O Procurado</title>
+  </programme>
+  <programme start="20230917034000 -0300" stop="20230917054500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Hellraiser - Renascido do Inferno</title>
+  </programme>
+  <programme start="20230917054500 -0300" stop="20230917074500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Pipeline - O Grande Roubo</title>
+  </programme>
+  <programme start="20230917074500 -0300" stop="20230917092500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Crô em Família</title>
+  </programme>
+  <programme start="20230917092500 -0300" stop="20230917110500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Segredos de Família</title>
+  </programme>
+  <programme start="20230917110500 -0300" stop="20230917124000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Muito Bem Acompanhada</title>
+  </programme>
+  <programme start="20230917124000 -0300" stop="20230917142000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">A Fera</title>
+  </programme>
+  <programme start="20230917142000 -0300" stop="20230917160000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Shrek para Sempre</title>
+  </programme>
+  <programme start="20230917160000 -0300" stop="20230917175500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Os Farofeiros</title>
+  </programme>
+  <programme start="20230917175500 -0300" stop="20230917200000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Infiltrado</title>
+  </programme>
+  <programme start="20230917200000 -0300" stop="20230917215000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">M3gan</title>
+  </programme>
+  <programme start="20230917215000 -0300" stop="20230918001000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Missão: Impossível - Protocolo Fantasma</title>
+  </programme>
+  <programme start="20230918001000 -0300" stop="20230918022000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Deuses do Egito</title>
+  </programme>
+  <programme start="20230918022000 -0300" stop="20230918042500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Arkansas - Rei do Crime</title>
+  </programme>
+  <programme start="20230918042500 -0300" stop="20230918062000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Sobreviva ou Morra Tentando</title>
+  </programme>
+  <programme start="20230918062000 -0300" stop="20230918082000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Acertando o Passo</title>
+  </programme>
+  <programme start="20230918082000 -0300" stop="20230918101500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">A Última Jornada</title>
+  </programme>
+  <programme start="20230918101500 -0300" stop="20230918122000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Rota de Fuga</title>
+  </programme>
+  <programme start="20230918122000 -0300" stop="20230918135500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">As Aventuras do Capitão Cueca - O Filme</title>
+  </programme>
+  <programme start="20230918135500 -0300" stop="20230918155000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">+Velozes +Furiosos</title>
+  </programme>
+  <programme start="20230918155000 -0300" stop="20230918175500 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">G.I. Joe - A Origem de Cobra</title>
+  </programme>
+  <programme start="20230918175500 -0300" stop="20230918195000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Minha Vida em Marte</title>
+  </programme>
+  <programme start="20230918195000 -0300" stop="20230918220000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Baywatch - S.O.S Malibu</title>
+  </programme>
+  <programme start="20230918220000 -0300" stop="20230919001000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Power Rangers</title>
+  </programme>
+  <programme start="20230919001000 -0300" stop="20230919025000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Gladiador</title>
+  </programme>
+  <programme start="20230919025000 -0300" stop="20230919045000 -0300" channel="TC PIPOCA HDR">
+    <title lang="pt">Stardust</title>
+  </programme>
+  <programme start="20230914181000 -0300" stop="20230914201000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Zoe e Tempestade</title>
+  </programme>
+  <programme start="20230914201000 -0300" stop="20230914215500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">A Sogra Perfeita</title>
+  </programme>
+  <programme start="20230914215500 -0300" stop="20230914220000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Preview</title>
+  </programme>
+  <programme start="20230914220000 -0300" stop="20230914235500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Gato de Botas 2 - O Último Pedido</title>
+  </programme>
+  <programme start="20230914235500 -0300" stop="20230915013500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Princesa por Acidente</title>
+  </programme>
+  <programme start="20230915013500 -0300" stop="20230915033500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Agentes Vanguard</title>
+  </programme>
+  <programme start="20230915033500 -0300" stop="20230915052000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Decisão de Risco</title>
+  </programme>
+  <programme start="20230915052000 -0300" stop="20230915070000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Brian e Charles</title>
+  </programme>
+  <programme start="20230915070000 -0300" stop="20230915084000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">As Aventuras de Tadeo e a Tábua de Esmeralda</title>
+  </programme>
+  <programme start="20230915084000 -0300" stop="20230915104000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">A Vida Eletrizante de Louis Wain</title>
+  </programme>
+  <programme start="20230915104000 -0300" stop="20230915122500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">A Sogra Perfeita</title>
+  </programme>
+  <programme start="20230915122500 -0300" stop="20230915140500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">De Volta à Itália</title>
+  </programme>
+  <programme start="20230915140500 -0300" stop="20230915160500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Na Hora da Virada</title>
+  </programme>
+  <programme start="20230915160500 -0300" stop="20230915175500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">As Vigilantes</title>
+  </programme>
+  <programme start="20230915175500 -0300" stop="20230915194500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Tô Ryca! 2</title>
+  </programme>
+  <programme start="20230915194500 -0300" stop="20230915220000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Top Gun: Maverick</title>
+  </programme>
+  <programme start="20230915220000 -0300" stop="20230915235500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">A Pequena Dixie</title>
+  </programme>
+  <programme start="20230915235500 -0300" stop="20230916020500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Pânico VI</title>
+  </programme>
+  <programme start="20230916020500 -0300" stop="20230916035500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Abandonada</title>
+  </programme>
+  <programme start="20230916035500 -0300" stop="20230916055000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Vingança</title>
+  </programme>
+  <programme start="20230916055000 -0300" stop="20230916074000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Meu Passado me Condena - O Filme</title>
+  </programme>
+  <programme start="20230916074000 -0300" stop="20230916094500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">A Série Divergente - Convergente</title>
+  </programme>
+  <programme start="20230916094500 -0300" stop="20230916114000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Cats e a Gatolândia</title>
+  </programme>
+  <programme start="20230916114000 -0300" stop="20230916134000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Zoe e Tempestade</title>
+  </programme>
+  <programme start="20230916134000 -0300" stop="20230916154500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Assalto ao Banco da Espanha</title>
+  </programme>
+  <programme start="20230916154500 -0300" stop="20230916173500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">O Sistema</title>
+  </programme>
+  <programme start="20230916173500 -0300" stop="20230916193000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Gato de Botas 2 - O Último Pedido</title>
+  </programme>
+  <programme start="20230916193000 -0300" stop="20230916220000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Jurassic World - Domínio</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230916235000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">M3gan</title>
+  </programme>
+  <programme start="20230916235000 -0300" stop="20230917014500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Margaux - A Inteligência Mortal</title>
+  </programme>
+  <programme start="20230917014500 -0300" stop="20230917033500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">As Vigilantes</title>
+  </programme>
+  <programme start="20230917033500 -0300" stop="20230917054000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Druk - Mais uma Rodada</title>
+  </programme>
+  <programme start="20230917054000 -0300" stop="20230917073000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Sem Palavras</title>
+  </programme>
+  <programme start="20230917073000 -0300" stop="20230917091500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Quando o Coração Bate Mais Forte 2</title>
+  </programme>
+  <programme start="20230917091500 -0300" stop="20230917110500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Tô Ryca! 2</title>
+  </programme>
+  <programme start="20230917110500 -0300" stop="20230917130000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Acertando o Tom</title>
+  </programme>
+  <programme start="20230917130000 -0300" stop="20230917144000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Princesa por Acidente</title>
+  </programme>
+  <programme start="20230917144000 -0300" stop="20230917144500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Preview</title>
+  </programme>
+  <programme start="20230917144500 -0300" stop="20230917164500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Case Comigo</title>
+  </programme>
+  <programme start="20230917164500 -0300" stop="20230917184000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">A Pequena Dixie</title>
+  </programme>
+  <programme start="20230917184000 -0300" stop="20230917201500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Guerra Oculta</title>
+  </programme>
+  <programme start="20230917201500 -0300" stop="20230917220000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Rambo - Até o Fim</title>
+  </programme>
+  <programme start="20230917220000 -0300" stop="20230918001000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Pânico VI</title>
+  </programme>
+  <programme start="20230918001000 -0300" stop="20230918021500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Mais que Amigos</title>
+  </programme>
+  <programme start="20230918021500 -0300" stop="20230918043500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Amor de Redenção</title>
+  </programme>
+  <programme start="20230918043500 -0300" stop="20230918063500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">No Dia do Seu Casamento</title>
+  </programme>
+  <programme start="20230918063500 -0300" stop="20230918082000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Juntos</title>
+  </programme>
+  <programme start="20230918082000 -0300" stop="20230918101500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">O Natal dos Coopers</title>
+  </programme>
+  <programme start="20230918101500 -0300" stop="20230918121500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Mais que Especiais</title>
+  </programme>
+  <programme start="20230918121500 -0300" stop="20230918142000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Coração de Campeão</title>
+  </programme>
+  <programme start="20230918142000 -0300" stop="20230918162000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Ida Red - O Preço da Liberdade</title>
+  </programme>
+  <programme start="20230918162000 -0300" stop="20230918181500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Margaux - A Inteligência Mortal</title>
+  </programme>
+  <programme start="20230918181500 -0300" stop="20230918201000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Mulher?</title>
+  </programme>
+  <programme start="20230918201000 -0300" stop="20230918220000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">M3gan</title>
+  </programme>
+  <programme start="20230918220000 -0300" stop="20230919001500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Bandido</title>
+  </programme>
+  <programme start="20230919001500 -0300" stop="20230919024000 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Ambulância - Um Dia de Crime</title>
+  </programme>
+  <programme start="20230919024000 -0300" stop="20230919045500 -0300" channel="TC PREMIUM HDR">
+    <title lang="pt">Não! Não Olhe!</title>
+  </programme>
+  <programme start="20230914174500 -0300" stop="20230914194000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Clube dos Anjos</title>
+  </programme>
+  <programme start="20230914194000 -0300" stop="20230914220000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Dia do Atentado</title>
+  </programme>
+  <programme start="20230914220000 -0300" stop="20230915002500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Apollo 13 - Do Desastre ao Triunfo</title>
+  </programme>
+  <programme start="20230915002500 -0300" stop="20230915024500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Segredo de Brokeback Mountain</title>
+  </programme>
+  <programme start="20230915024500 -0300" stop="20230915045500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Piratas da Somália</title>
+  </programme>
+  <programme start="20230915045500 -0300" stop="20230915065500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Intimidade Entre Estranhos</title>
+  </programme>
+  <programme start="20230915065500 -0300" stop="20230915085000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Plano B</title>
+  </programme>
+  <programme start="20230915085000 -0300" stop="20230915104000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Mar de Dentro</title>
+  </programme>
+  <programme start="20230915104000 -0300" stop="20230915122000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">A um Clique de Distância</title>
+  </programme>
+  <programme start="20230915122000 -0300" stop="20230915140500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Deserto do Ouro</title>
+  </programme>
+  <programme start="20230915140500 -0300" stop="20230915160000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">A Duquesa</title>
+  </programme>
+  <programme start="20230915160000 -0300" stop="20230915180500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Doutor da Felicidade</title>
+  </programme>
+  <programme start="20230915180500 -0300" stop="20230915200000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Onda de Calor</title>
+  </programme>
+  <programme start="20230915200000 -0300" stop="20230915220000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Três Vezes Amor</title>
+  </programme>
+  <programme start="20230915220000 -0300" stop="20230915234500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Sempre ao Seu Lado</title>
+  </programme>
+  <programme start="20230915234500 -0300" stop="20230916014000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Cinquenta Tons de Liberdade</title>
+  </programme>
+  <programme start="20230916014000 -0300" stop="20230916032500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Três Verões</title>
+  </programme>
+  <programme start="20230916032500 -0300" stop="20230916053000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Casa Amor</title>
+  </programme>
+  <programme start="20230916053000 -0300" stop="20230916071500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Meu Namorado É um Zumbi</title>
+  </programme>
+  <programme start="20230916071500 -0300" stop="20230916091500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Último Trem pro Natal</title>
+  </programme>
+  <programme start="20230916091500 -0300" stop="20230916110000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Uma Prova de Fé 2 - Voltando para Casa</title>
+  </programme>
+  <programme start="20230916110000 -0300" stop="20230916125500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Era uma Vez em Staten Island</title>
+  </programme>
+  <programme start="20230916125500 -0300" stop="20230916150000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Mamma Mia! Lá Vamos Nós de Novo</title>
+  </programme>
+  <programme start="20230916150000 -0300" stop="20230916171500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Viagem das Garotas</title>
+  </programme>
+  <programme start="20230916171500 -0300" stop="20230916194500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Apollo 13 - Do Desastre ao Triunfo</title>
+  </programme>
+  <programme start="20230916194500 -0300" stop="20230916220000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Questão de Tempo</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230917000000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">A Garota no Trem</title>
+  </programme>
+  <programme start="20230917000000 -0300" stop="20230917000500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Preview</title>
+  </programme>
+  <programme start="20230917000500 -0300" stop="20230917020000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Amor em Little Italy</title>
+  </programme>
+  <programme start="20230917020000 -0300" stop="20230917040500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">A Fortuna Desafia a Morte</title>
+  </programme>
+  <programme start="20230917040500 -0300" stop="20230917062500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Segredo de Brokeback Mountain</title>
+  </programme>
+  <programme start="20230917062500 -0300" stop="20230917083500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Jantar</title>
+  </programme>
+  <programme start="20230917083500 -0300" stop="20230917104000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Que Horas Ela Volta?</title>
+  </programme>
+  <programme start="20230917104000 -0300" stop="20230917123000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">15 Minutos de Guerra</title>
+  </programme>
+  <programme start="20230917123000 -0300" stop="20230917143500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Doutor da Felicidade</title>
+  </programme>
+  <programme start="20230917143500 -0300" stop="20230917162000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Dakota</title>
+  </programme>
+  <programme start="20230917162000 -0300" stop="20230917181500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Ela Dança, Eu Danço</title>
+  </programme>
+  <programme start="20230917181500 -0300" stop="20230917200000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Ela Dança, Eu Danço 4</title>
+  </programme>
+  <programme start="20230917200000 -0300" stop="20230917220000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Ela Dança, Eu Danço 5 - Tudo ou Nada</title>
+  </programme>
+  <programme start="20230917220000 -0300" stop="20230917234000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Ela Dança, Eu Danço 6</title>
+  </programme>
+  <programme start="20230917234000 -0300" stop="20230918013500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Onda de Calor</title>
+  </programme>
+  <programme start="20230918013500 -0300" stop="20230918030000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Beautiful Vampire - Amor Proibido</title>
+  </programme>
+  <programme start="20230918030000 -0300" stop="20230918044500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Uma Loucura de Mulher</title>
+  </programme>
+  <programme start="20230918044500 -0300" stop="20230918065000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">As Primeiras Histórias de Amor</title>
+  </programme>
+  <programme start="20230918065000 -0300" stop="20230918085000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Submersão</title>
+  </programme>
+  <programme start="20230918085000 -0300" stop="20230918104500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">A Duquesa</title>
+  </programme>
+  <programme start="20230918104500 -0300" stop="20230918123500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Rapto</title>
+  </programme>
+  <programme start="20230918123500 -0300" stop="20230918143500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Unidas pela Esperança</title>
+  </programme>
+  <programme start="20230918143500 -0300" stop="20230918162000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">The Box - No Ritmo do Coração</title>
+  </programme>
+  <programme start="20230918162000 -0300" stop="20230918180500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Um Casal Inseparável</title>
+  </programme>
+  <programme start="20230918180500 -0300" stop="20230918195500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Amor em Little Italy</title>
+  </programme>
+  <programme start="20230918195500 -0300" stop="20230918220000 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Elis</title>
+  </programme>
+  <programme start="20230918220000 -0300" stop="20230919001500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Viagem das Garotas</title>
+  </programme>
+  <programme start="20230919001500 -0300" stop="20230919020500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">Negócio das Arábias</title>
+  </programme>
+  <programme start="20230919020500 -0300" stop="20230919040500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">O Último Trem pro Natal</title>
+  </programme>
+  <programme start="20230919040500 -0300" stop="20230919061500 -0300" channel="TC TOUCH HDR">
+    <title lang="pt">No Coração do Mundo</title>
   </programme>
 </tv>
