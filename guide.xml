@@ -1,18 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Globo SP">
-    <display-name lang="pt">Globo SP</display-name>
-    <icon src="https://www.lineup.tv.br/canais/compacto.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
   <channel id="TV Globo">
     <display-name lang="pt">TV Globo</display-name>
     <icon src="https://i.meuguia.tv/logos/new/grd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20230914152500 -0300" stop="20230914170500 -0300" channel="TV Globo">
-    <title lang="pt">Sessão da Tarde - Nunca Te Esquecerei</title>
-  </programme>
+  <channel id="TC ACTION HDR">
+    <display-name lang="pt">TC ACTION HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tc2.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20230914170500 -0300" stop="20230914182500 -0300" channel="TV Globo">
     <title lang="pt">Vale a Pena Ver de Novo</title>
   </programme>
@@ -399,5 +396,170 @@
   </programme>
   <programme start="20230920233000 -0300" stop="20230920234500 -0300" channel="TV Globo">
     <title lang="pt">Segue o Jogo</title>
+  </programme>
+  <programme start="20230914175000 -0300" stop="20230914195000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Polícia Federal - A Lei É para Todos</title>
+  </programme>
+  <programme start="20230914195000 -0300" stop="20230914220000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">A Máscara de Ferro</title>
+  </programme>
+  <programme start="20230914220000 -0300" stop="20230915003000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Transformers</title>
+  </programme>
+  <programme start="20230915003000 -0300" stop="20230915022500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">O Inferno de Dante</title>
+  </programme>
+  <programme start="20230915022500 -0300" stop="20230915043500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Presságio</title>
+  </programme>
+  <programme start="20230915043500 -0300" stop="20230915062000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Ameaça no Espaço</title>
+  </programme>
+  <programme start="20230915062000 -0300" stop="20230915082500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Os 3 Infernais</title>
+  </programme>
+  <programme start="20230915082500 -0300" stop="20230915101500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">O Terno de 2 Bilhões de Dólares</title>
+  </programme>
+  <programme start="20230915101500 -0300" stop="20230915122500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Lansky - Uma História da Máfia</title>
+  </programme>
+  <programme start="20230915122500 -0300" stop="20230915142000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">A Múmia</title>
+  </programme>
+  <programme start="20230915142000 -0300" stop="20230915162000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Truque de Mestre</title>
+  </programme>
+  <programme start="20230915162000 -0300" stop="20230915182500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Bumblebee</title>
+  </programme>
+  <programme start="20230915182500 -0300" stop="20230915201500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">O Silêncio da Chuva</title>
+  </programme>
+  <programme start="20230915201500 -0300" stop="20230915220000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Assassino a Preço Fixo 2 - A Ressurreição</title>
+  </programme>
+  <programme start="20230915220000 -0300" stop="20230915233500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">João e Maria - Caçadores de Bruxas</title>
+  </programme>
+  <programme start="20230915233500 -0300" stop="20230916011500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Desumano</title>
+  </programme>
+  <programme start="20230916011500 -0300" stop="20230916031000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Terra Violenta</title>
+  </programme>
+  <programme start="20230916031000 -0300" stop="20230916050500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">O Túnel</title>
+  </programme>
+  <programme start="20230916050500 -0300" stop="20230916070500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">A Sombra do Reino</title>
+  </programme>
+  <programme start="20230916070500 -0300" stop="20230916091500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Presságio</title>
+  </programme>
+  <programme start="20230916091500 -0300" stop="20230916105500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Jurassic Park 3</title>
+  </programme>
+  <programme start="20230916105500 -0300" stop="20230916132000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Velozes &amp; Furiosos 7</title>
+  </programme>
+  <programme start="20230916132000 -0300" stop="20230916152000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Uma Saída de Mestre</title>
+  </programme>
+  <programme start="20230916152000 -0300" stop="20230916170000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">O Sobrevivente</title>
+  </programme>
+  <programme start="20230916170000 -0300" stop="20230916194000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Transformers - O Lado Oculto da Lua</title>
+  </programme>
+  <programme start="20230916194000 -0300" stop="20230916194500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Preview</title>
+  </programme>
+  <programme start="20230916194500 -0300" stop="20230916220000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Branca de Neve e o Caçador</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230917000000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">O Caçador e a Rainha do Gelo</title>
+  </programme>
+  <programme start="20230917000000 -0300" stop="20230917015000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Os Mercenários</title>
+  </programme>
+  <programme start="20230917015000 -0300" stop="20230917040000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">A Máscara de Ferro</title>
+  </programme>
+  <programme start="20230917040000 -0300" stop="20230917053500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Hipnose</title>
+  </programme>
+  <programme start="20230917053500 -0300" stop="20230917071000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Bellini e o Demônio</title>
+  </programme>
+  <programme start="20230917071000 -0300" stop="20230917085500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Sozinha</title>
+  </programme>
+  <programme start="20230917085500 -0300" stop="20230917112500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Transformers</title>
+  </programme>
+  <programme start="20230917112500 -0300" stop="20230917132000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">O Inferno de Dante</title>
+  </programme>
+  <programme start="20230917132000 -0300" stop="20230917150500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Assassino a Preço Fixo 2 - A Ressurreição</title>
+  </programme>
+  <programme start="20230917150500 -0300" stop="20230917172500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Van Helsing - O Caçador de Monstros</title>
+  </programme>
+  <programme start="20230917172500 -0300" stop="20230917191000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Carga Explosiva - O Legado</title>
+  </programme>
+  <programme start="20230917191000 -0300" stop="20230917220000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">007 - Sem Tempo para Morrer</title>
+  </programme>
+  <programme start="20230917220000 -0300" stop="20230918002000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Entre Facas e Segredos</title>
+  </programme>
+  <programme start="20230918002000 -0300" stop="20230918022500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Bumblebee</title>
+  </programme>
+  <programme start="20230918022500 -0300" stop="20230918040500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Desumano</title>
+  </programme>
+  <programme start="20230918040500 -0300" stop="20230918060000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Sem Saída</title>
+  </programme>
+  <programme start="20230918060000 -0300" stop="20230918074000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Cálculo Mortal</title>
+  </programme>
+  <programme start="20230918074000 -0300" stop="20230918095000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Shock Wave 2</title>
+  </programme>
+  <programme start="20230918095000 -0300" stop="20230918114500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Sem Escalas</title>
+  </programme>
+  <programme start="20230918114500 -0300" stop="20230918142500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Transformers - O Lado Oculto da Lua</title>
+  </programme>
+  <programme start="20230918142500 -0300" stop="20230918164000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Branca de Neve e o Caçador</title>
+  </programme>
+  <programme start="20230918164000 -0300" stop="20230918181500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">João e Maria - Caçadores de Bruxas</title>
+  </programme>
+  <programme start="20230918181500 -0300" stop="20230918202000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">A Múmia - Tumba do Imperador Dragão</title>
+  </programme>
+  <programme start="20230918202000 -0300" stop="20230918220000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Os Portões do Inferno</title>
+  </programme>
+  <programme start="20230918220000 -0300" stop="20230919000500 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Tropa de Elite</title>
+  </programme>
+  <programme start="20230919000500 -0300" stop="20230919014000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">211 - O Grande Assalto</title>
+  </programme>
+  <programme start="20230919014000 -0300" stop="20230919032000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Adrenalina</title>
+  </programme>
+  <programme start="20230919032000 -0300" stop="20230919050000 -0300" channel="TC ACTION HDR">
+    <title lang="pt">Jurassic Park 3</title>
   </programme>
 </tv>
