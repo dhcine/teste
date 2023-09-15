@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="STUDIO UNIVERSAL HDR">
+    <display-name lang="pt">STUDIO UNIVERSAL HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hal.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <channel id="TV Globo">
     <display-name lang="pt">TV Globo</display-name>
     <icon src="https://i.meuguia.tv/logos/new/grd.png" />
@@ -95,15 +100,280 @@
     <icon src="https://i.meuguia.tv/logos/new/tnt.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Universal Channel">
-    <display-name lang="pt">Universal Channel</display-name>
-    <icon src="https://i.meuguia.tv/logos/new/usa.png" />
+  <channel id="UNIVERSAL TV HDR">
+    <display-name lang="pt">UNIVERSAL TV HDR</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Studio Universal">
-    <display-name lang="pt">Studio Universal</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
+  <programme start="20230915152000 -0300" stop="20230915174500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Erin Brockovich - Uma Mulher de Talento</title>
+  </programme>
+  <programme start="20230915174500 -0300" stop="20230915193000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Coração de Dragão: Vingança</title>
+  </programme>
+  <programme start="20230915193000 -0300" stop="20230915210000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Mistério da Ilha</title>
+  </programme>
+  <programme start="20230915210000 -0300" stop="20230915224500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Cobrador de Impostos</title>
+  </programme>
+  <programme start="20230915224500 -0300" stop="20230916005500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Twister</title>
+  </programme>
+  <programme start="20230916005500 -0300" stop="20230916031500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Miami Vice</title>
+  </programme>
+  <programme start="20230916031500 -0300" stop="20230916060000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Mestre dos Mares: O Lado Mais Distante do Mundo</title>
+  </programme>
+  <programme start="20230916060000 -0300" stop="20230916062500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230916062500 -0300" stop="20230916065000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230916065000 -0300" stop="20230916072000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230916072000 -0300" stop="20230916072000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">A Arte de Ser Adulto</title>
+  </programme>
+  <programme start="20230916072000 -0300" stop="20230916095000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">A Arte de Ser Adulto</title>
+  </programme>
+  <programme start="20230916095000 -0300" stop="20230916112500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Caminho para El Dorado</title>
+  </programme>
+  <programme start="20230916112500 -0300" stop="20230916132000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">A Seleção</title>
+  </programme>
+  <programme start="20230916132000 -0300" stop="20230916151000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">A Morte e Vida de Charlie</title>
+  </programme>
+  <programme start="20230916151000 -0300" stop="20230916165000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Os Órfãos</title>
+  </programme>
+  <programme start="20230916165000 -0300" stop="20230916190000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Fragmentado</title>
+  </programme>
+  <programme start="20230916190000 -0300" stop="20230916210000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+  </programme>
+  <programme start="20230916210000 -0300" stop="20230916225000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Anjos da Noite: A Evolução</title>
+  </programme>
+  <programme start="20230916225000 -0300" stop="20230917003000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Anjos da Noite: O Despertar</title>
+  </programme>
+  <programme start="20230917003000 -0300" stop="20230917023000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Juízo Final</title>
+  </programme>
+  <programme start="20230917023000 -0300" stop="20230917040500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Tsunami Zumbi</title>
+  </programme>
+  <programme start="20230917040500 -0300" stop="20230917060000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Invencível: Caminho da Redenção</title>
+  </programme>
+  <programme start="20230917060000 -0300" stop="20230917062500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230917062500 -0300" stop="20230917065500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230917065500 -0300" stop="20230917065500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Sid e Judy</title>
+  </programme>
+  <programme start="20230917065500 -0300" stop="20230917084500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Sid e Judy</title>
+  </programme>
+  <programme start="20230917084500 -0300" stop="20230917104000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Quebrando o Banco</title>
+  </programme>
+  <programme start="20230917104000 -0300" stop="20230917122000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Os Flintstones: O Filme</title>
+  </programme>
+  <programme start="20230917122000 -0300" stop="20230917140500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Meios-irmãos</title>
+  </programme>
+  <programme start="20230917140500 -0300" stop="20230917162500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Confronto no Pavilhão 99</title>
+  </programme>
+  <programme start="20230917162500 -0300" stop="20230917180500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Anjos da Noite: O Despertar</title>
+  </programme>
+  <programme start="20230917180500 -0300" stop="20230917210000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Gângster</title>
+  </programme>
+  <programme start="20230917210000 -0300" stop="20230917230000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+  </programme>
+  <programme start="20230917230000 -0300" stop="20230918003500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Escorpião Rei</title>
+  </programme>
+  <programme start="20230918003500 -0300" stop="20230918022500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Os Mortos Não Morrem</title>
+  </programme>
+  <programme start="20230918022500 -0300" stop="20230918040500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Um Maluco no Golfe</title>
+  </programme>
+  <programme start="20230918040500 -0300" stop="20230918053500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Um Enigma do Céu</title>
+  </programme>
+  <programme start="20230918053500 -0300" stop="20230918060000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230918060000 -0300" stop="20230918082500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Erin Brockovich - Uma Mulher de Talento</title>
+  </programme>
+  <programme start="20230918082500 -0300" stop="20230918082500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Solista</title>
+  </programme>
+  <programme start="20230918082500 -0300" stop="20230918103500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Solista</title>
+  </programme>
+  <programme start="20230918103500 -0300" stop="20230918130500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">As Ondas</title>
+  </programme>
+  <programme start="20230918130500 -0300" stop="20230918142500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Dahl e Potter: Um Encontro Mágico</title>
+  </programme>
+  <programme start="20230918142500 -0300" stop="20230918163500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Scott Pilgrim Contra O Mundo</title>
+  </programme>
+  <programme start="20230918163500 -0300" stop="20230918190000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Battleship - A Batalha Dos Mares</title>
+  </programme>
+  <programme start="20230918190000 -0300" stop="20230918210000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Corrida Mortal: Anarquia</title>
+  </programme>
+  <programme start="20230918210000 -0300" stop="20230918223000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Mistério da Ilha</title>
+  </programme>
+  <programme start="20230918223000 -0300" stop="20230919010000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Velozes &amp; Furiosos 7</title>
+  </programme>
+  <programme start="20230919010000 -0300" stop="20230919031500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Chumbo Grosso</title>
+  </programme>
+  <programme start="20230919031500 -0300" stop="20230919050500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Retorno De Johnny English</title>
+  </programme>
+  <programme start="20230919050500 -0300" stop="20230919053500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230919053500 -0300" stop="20230919061000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230919061000 -0300" stop="20230919061000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Os Miseráveis</title>
+  </programme>
+  <programme start="20230919061000 -0300" stop="20230919090500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Os Miseráveis</title>
+  </programme>
+  <programme start="20230919090500 -0300" stop="20230919105500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">A Morte e Vida de Charlie</title>
+  </programme>
+  <programme start="20230919105500 -0300" stop="20230919124500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">2 Corações</title>
+  </programme>
+  <programme start="20230919124500 -0300" stop="20230919150500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Justiça em Chamas</title>
+  </programme>
+  <programme start="20230919150500 -0300" stop="20230919165500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Donnybrook - Luta Pela Redenção</title>
+  </programme>
+  <programme start="20230919165500 -0300" stop="20230919191500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Miami Vice</title>
+  </programme>
+  <programme start="20230919191500 -0300" stop="20230919210000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Cobrador de Impostos</title>
+  </programme>
+  <programme start="20230919210000 -0300" stop="20230919225000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Escorpião Rei 5: O Livro das Almas</title>
+  </programme>
+  <programme start="20230919225000 -0300" stop="20230920003500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Nome da Morte</title>
+  </programme>
+  <programme start="20230920003500 -0300" stop="20230920022000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Coração de Dragão: Vingança</title>
+  </programme>
+  <programme start="20230920022000 -0300" stop="20230920043000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Solista</title>
+  </programme>
+  <programme start="20230920043000 -0300" stop="20230920061500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Um Mistério de Aurora Teagarden: A Casa dos Julius</title>
+  </programme>
+  <programme start="20230920061500 -0300" stop="20230920064500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230920064500 -0300" stop="20230920081500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Um Enigma do Céu</title>
+  </programme>
+  <programme start="20230920081500 -0300" stop="20230920081500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Scott Pilgrim Contra O Mundo</title>
+  </programme>
+  <programme start="20230920081500 -0300" stop="20230920102500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Scott Pilgrim Contra O Mundo</title>
+  </programme>
+  <programme start="20230920102500 -0300" stop="20230920120500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Mister Bean: O Filme</title>
+  </programme>
+  <programme start="20230920120500 -0300" stop="20230920135000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Descobrindo a Vida</title>
+  </programme>
+  <programme start="20230920135000 -0300" stop="20230920154500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Quebrando o Banco</title>
+  </programme>
+  <programme start="20230920154500 -0300" stop="20230920174000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Retorno De Johnny English</title>
+  </programme>
+  <programme start="20230920174000 -0300" stop="20230920192000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Eu Fico Loko</title>
+  </programme>
+  <programme start="20230920192000 -0300" stop="20230920210000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Anjos da Noite: O Despertar</title>
+  </programme>
+  <programme start="20230920210000 -0300" stop="20230920232500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Battleship - A Batalha Dos Mares</title>
+  </programme>
+  <programme start="20230920232500 -0300" stop="20230921012500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+  </programme>
+  <programme start="20230921012500 -0300" stop="20230921034500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Erin Brockovich - Uma Mulher de Talento</title>
+  </programme>
+  <programme start="20230921034500 -0300" stop="20230921060000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">O Zoológico de Varsóvia</title>
+  </programme>
+  <programme start="20230921060000 -0300" stop="20230921062500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230921062500 -0300" stop="20230921065000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230921065000 -0300" stop="20230921071500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20230921071500 -0300" stop="20230921071500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Um Mistério de Aurora Teagarden: A Casa dos Julius</title>
+  </programme>
+  <programme start="20230921071500 -0300" stop="20230921084500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Um Mistério de Aurora Teagarden: A Casa dos Julius</title>
+  </programme>
+  <programme start="20230921084500 -0300" stop="20230921105000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">A Síndrome De Berlim</title>
+  </programme>
+  <programme start="20230921105000 -0300" stop="20230921124500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">A Arte da Autodefesa</title>
+  </programme>
+  <programme start="20230921124500 -0300" stop="20230921143000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Uma Mãe para o Meu Bebê</title>
+  </programme>
+  <programme start="20230921143000 -0300" stop="20230921161500 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Meios-irmãos</title>
+  </programme>
+  <programme start="20230921161500 -0300" stop="20230921185000 -0300" channel="STUDIO UNIVERSAL HDR">
+    <title lang="pt">Mestre dos Mares: O Lado Mais Distante do Mundo</title>
+  </programme>
   <programme start="20230915152500 -0300" stop="20230915170500 -0300" channel="TV Globo">
     <title lang="pt">Sessão da Tarde - A Lenda do Tesouro Perdido</title>
   </programme>
@@ -491,9 +761,6 @@
   <programme start="20230921212000 -0300" stop="20230921222500 -0300" channel="TV Globo">
     <title lang="pt">Terra e Paixão</title>
   </programme>
-  <programme start="20230915142000 -0300" stop="20230915162000 -0300" channel="TC ACTION HDR">
-    <title lang="pt">Truque de Mestre</title>
-  </programme>
   <programme start="20230915162000 -0300" stop="20230915182500 -0300" channel="TC ACTION HDR">
     <title lang="pt">Bumblebee</title>
   </programme>
@@ -668,9 +935,6 @@
   <programme start="20230920032000 -0300" stop="20230920045500 -0300" channel="TC ACTION HDR">
     <title lang="pt">Guerreiros do Futuro</title>
   </programme>
-  <programme start="20230915141500 -0300" stop="20230915160000 -0300" channel="TC CULT HDR">
-    <title lang="pt">Houria - Dançando no Silêncio</title>
-  </programme>
   <programme start="20230915160000 -0300" stop="20230915175000 -0300" channel="TC CULT HDR">
     <title lang="pt">Masculino-Feminino</title>
   </programme>
@@ -838,9 +1102,6 @@
   </programme>
   <programme start="20230920020000 -0300" stop="20230920051500 -0300" channel="TC CULT HDR">
     <title lang="pt">Memórias do Cárcere</title>
-  </programme>
-  <programme start="20230915145000 -0300" stop="20230915162500 -0300" channel="TC FUN HDR">
-    <title lang="pt">Bem-vindo ao Mundo dos Ogglies</title>
   </programme>
   <programme start="20230915162500 -0300" stop="20230915180000 -0300" channel="TC FUN HDR">
     <title lang="pt">A Bailarina</title>
@@ -1037,9 +1298,6 @@
   <programme start="20230920033000 -0300" stop="20230920052000 -0300" channel="TC FUN HDR">
     <title lang="pt">A Candidata Honesta</title>
   </programme>
-  <programme start="20230915142000 -0300" stop="20230915162500 -0300" channel="TC PIPOCA HDR">
-    <title lang="pt">A Identidade Bourne</title>
-  </programme>
   <programme start="20230915162500 -0300" stop="20230915181500 -0300" channel="TC PIPOCA HDR">
     <title lang="pt">Agente das Sombras</title>
   </programme>
@@ -1214,9 +1472,6 @@
   <programme start="20230920034000 -0300" stop="20230920054500 -0300" channel="TC PIPOCA HDR">
     <title lang="pt">Arkansas - Rei do Crime</title>
   </programme>
-  <programme start="20230915140500 -0300" stop="20230915160500 -0300" channel="TC PREMIUM HDR">
-    <title lang="pt">Na Hora da Virada</title>
-  </programme>
   <programme start="20230915160500 -0300" stop="20230915175500 -0300" channel="TC PREMIUM HDR">
     <title lang="pt">As Vigilantes</title>
   </programme>
@@ -1384,9 +1639,6 @@
   </programme>
   <programme start="20230920034000 -0300" stop="20230920063000 -0300" channel="TC PREMIUM HDR">
     <title lang="pt">Marighella</title>
-  </programme>
-  <programme start="20230915140500 -0300" stop="20230915160000 -0300" channel="TC TOUCH HDR">
-    <title lang="pt">A Duquesa</title>
   </programme>
   <programme start="20230915160000 -0300" stop="20230915180500 -0300" channel="TC TOUCH HDR">
     <title lang="pt">O Doutor da Felicidade</title>
@@ -1747,9 +1999,6 @@
   </programme>
   <programme start="20230920042000 -0300" stop="20230920060000 -0300" channel="HBO HDR">
     <title lang="pt">Do Fundo do Mar 2</title>
-  </programme>
-  <programme start="20230915142500 -0300" stop="20230915161000 -0300" channel="HBO 2 HDR">
-    <title lang="pt">O Exorcista do Papa</title>
   </programme>
   <programme start="20230915161000 -0300" stop="20230915180000 -0300" channel="HBO 2 HDR">
     <title lang="pt">Morbius</title>
@@ -2299,9 +2548,6 @@
   </programme>
   <programme start="20230920040500 -0300" stop="20230920060000 -0300" channel="HBO PLUS HDR">
     <title lang="pt">Tratamento de Choque</title>
-  </programme>
-  <programme start="20230915152700 -0300" stop="20230915163200 -0300" channel="HBO SIGNATURE HDR">
-    <title lang="pt">A Casa do Dragão : T1 EP3 - O Segundo de Seu Nome</title>
   </programme>
   <programme start="20230915163200 -0300" stop="20230915173600 -0300" channel="HBO SIGNATURE HDR">
     <title lang="pt">A Casa do Dragão : T1 EP4 - O Rei do Mar Estreito</title>
@@ -3515,9 +3761,6 @@
   <programme start="20230920063000 -0300" stop="20230920070000 -0300" channel="PARAMOUNT HDR">
     <title lang="pt">Paramount Soundtrack</title>
   </programme>
-  <programme start="20230915152000 -0300" stop="20230915161500 -0300" channel="SONY CHANNEL HDR">
-    <title lang="pt">Betty's Call : T3 EP1 - Undercover Boss</title>
-  </programme>
   <programme start="20230915161500 -0300" stop="20230915171000 -0300" channel="SONY CHANNEL HDR">
     <title lang="pt">Betty's Call : T3 EP2 - Neuanfang</title>
   </programme>
@@ -3818,9 +4061,6 @@
   <programme start="20230920050000 -0300" stop="20230920060000 -0300" channel="SONY CHANNEL HDR">
     <title lang="pt">The Good Doctor : T4 EP2 - Frontline Part 2</title>
   </programme>
-  <programme start="20230915140700 -0300" stop="20230915163000 -0300" channel="SPACE HDR">
-    <title lang="pt">Máquina Mortífera</title>
-  </programme>
   <programme start="20230915163000 -0300" stop="20230915184900 -0300" channel="SPACE HDR">
     <title lang="pt">Máquina Mortífera 2</title>
   </programme>
@@ -3997,9 +4237,6 @@
   </programme>
   <programme start="20230920050400 -0300" stop="20230920060000 -0300" channel="SPACE HDR">
     <title lang="pt">Hollywood One on One</title>
-  </programme>
-  <programme start="20230915145100 -0300" stop="20230915163700 -0300" channel="TNT HDR">
-    <title lang="pt">Jogo do Dinheiro</title>
   </programme>
   <programme start="20230915163700 -0300" stop="20230915183500 -0300" channel="TNT HDR">
     <title lang="pt">O Exterminador do Futuro 3 - A Rebelião das Máquinas</title>
@@ -4270,170 +4507,5 @@
   </programme>
   <programme start="20230920055100 -0300" stop="20230920060400 -0300" channel="TNT HDR">
     <title lang="pt">Jogo da Morte</title>
-  </programme>
-  <programme start="20230915002000 -0300" stop="20230915011000 -0300" channel="Universal Channel">
-    <title lang="pt">Law &amp; Order SVU</title>
-  </programme>
-  <programme start="20230915011000 -0300" stop="20230915020000 -0300" channel="Universal Channel">
-    <title lang="pt">Law &amp; Order SVU</title>
-  </programme>
-  <programme start="20230915020000 -0300" stop="20230915025000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230915025000 -0300" stop="20230915034000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230915034000 -0300" stop="20230915044000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230915044000 -0300" stop="20230915053000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230915053000 -0300" stop="20230915062000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230915062000 -0300" stop="20230915071000 -0300" channel="Universal Channel">
-    <title lang="pt">FBI</title>
-  </programme>
-  <programme start="20230915071000 -0300" stop="20230915080000 -0300" channel="Universal Channel">
-    <title lang="pt">FBI</title>
-  </programme>
-  <programme start="20230915080000 -0300" stop="20230915085000 -0300" channel="Universal Channel">
-    <title lang="pt">FBI</title>
-  </programme>
-  <programme start="20230915085000 -0300" stop="20230915094000 -0300" channel="Universal Channel">
-    <title lang="pt">FBI</title>
-  </programme>
-  <programme start="20230915094000 -0300" stop="20230915103000 -0300" channel="Universal Channel">
-    <title lang="pt">FBI</title>
-  </programme>
-  <programme start="20230915103000 -0300" stop="20230915112000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230915112000 -0300" stop="20230915121000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230915121000 -0300" stop="20230915130000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230915130000 -0300" stop="20230915135000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230915135000 -0300" stop="20230915144000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230915144000 -0300" stop="20230915153000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230915153000 -0300" stop="20230915162000 -0300" channel="Universal Channel">
-    <title lang="pt">FBI</title>
-  </programme>
-  <programme start="20230915162000 -0300" stop="20230915171000 -0300" channel="Universal Channel">
-    <title lang="pt">FBI: International</title>
-  </programme>
-  <programme start="20230915171000 -0300" stop="20230915180000 -0300" channel="Universal Channel">
-    <title lang="pt">FBI: Most Wanted</title>
-  </programme>
-  <programme start="20230915180000 -0300" stop="20230915183000 -0300" channel="Universal Channel">
-    <title lang="pt">Unidade Básica</title>
-  </programme>
-  <programme start="20230915183000 -0300" stop="20230915190000 -0300" channel="Universal Channel">
-    <title lang="pt">Unidade Básica</title>
-  </programme>
-  <programme start="20230915190000 -0300" stop="20230915195000 -0300" channel="Universal Channel">
-    <title lang="pt">Jungle Pilot</title>
-  </programme>
-  <programme start="20230915195000 -0300" stop="20230915204000 -0300" channel="Universal Channel">
-    <title lang="pt">Jungle Pilot</title>
-  </programme>
-  <programme start="20230915204000 -0300" stop="20230915213000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230915213000 -0300" stop="20230915222000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230915222000 -0300" stop="20230915231000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230915231000 -0300" stop="20230916000000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230916000000 -0300" stop="20230916005000 -0300" channel="Universal Channel">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20230916005000 -0300" stop="20230916014000 -0300" channel="Universal Channel">
-    <title lang="pt">The Rookie</title>
-  </programme>
-  <programme start="20230916014000 -0300" stop="20230916023000 -0300" channel="Universal Channel">
-    <title lang="pt">Magnum P.I.</title>
-  </programme>
-  <programme start="20230916023000 -0300" stop="20230916032000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230916032000 -0300" stop="20230916045000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230916045000 -0300" stop="20230916054000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230916054000 -0300" stop="20230916063000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230916063000 -0300" stop="20230916072000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230916072000 -0300" stop="20230916081000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230916081000 -0300" stop="20230916090000 -0300" channel="Universal Channel">
-    <title lang="pt">Law &amp; Order SVU</title>
-  </programme>
-  <programme start="20230916090000 -0300" stop="20230916095000 -0300" channel="Universal Channel">
-    <title lang="pt">Law &amp; Order SVU</title>
-  </programme>
-  <programme start="20230916095000 -0300" stop="20230916104000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230916104000 -0300" stop="20230916113000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230916113000 -0300" stop="20230916122000 -0300" channel="Universal Channel">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20230916122000 -0300" stop="20230916131000 -0300" channel="Universal Channel">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20230916131000 -0300" stop="20230916140000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230916140000 -0300" stop="20230916145000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230916145000 -0300" stop="20230916154000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20230916154000 -0300" stop="20230916163000 -0300" channel="Universal Channel">
-    <title lang="pt">Law &amp; Order SVU</title>
-  </programme>
-  <programme start="20230916163000 -0300" stop="20230916172000 -0300" channel="Universal Channel">
-    <title lang="pt">Law &amp; Order SVU</title>
-  </programme>
-  <programme start="20230916172000 -0300" stop="20230916181000 -0300" channel="Universal Channel">
-    <title lang="pt">Law &amp; Order SVU</title>
-  </programme>
-  <programme start="20230916181000 -0300" stop="20230916190000 -0300" channel="Universal Channel">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20230916190000 -0300" stop="20230916195000 -0300" channel="Universal Channel">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20230916195000 -0300" stop="20230916204000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230916204000 -0300" stop="20230916213000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20230916213000 -0300" stop="20230916222000 -0300" channel="Universal Channel">
-    <title lang="pt">Chicago P.D.</title>
   </programme>
 </tv>
