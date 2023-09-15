@@ -4508,8 +4508,7 @@
   <programme start="20230920055100 -0300" stop="20230920060400 -0300" channel="TNT HDR">
     <title lang="pt">Jogo da Morte</title>
   </programme>
-</tv>
-  <programme start="20230915002000 -0300" stop="20230915011000 -0300" channel="UNIVERSAL TV HDR">
+   <programme start="20230915002000 -0300" stop="20230915011000 -0300" channel="UNIVERSAL TV HDR">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
   <programme start="20230915011000 -0300" stop="20230915020000 -0300" channel="UNIVERSAL TV HDR">
@@ -4675,3 +4674,4 @@
     <title lang="pt">Chicago P.D.</title>
   </programme>
 </tv>
+ 
