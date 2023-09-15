@@ -104,6 +104,15 @@
     <display-name lang="pt">UNIVERSAL TV HDR</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <display-name lang="pt">SYFY HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sci.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM HDR">
+    <display-name lang="pt">TCM HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tcm.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20230915152000 -0300" stop="20230915174500 -0300" channel="STUDIO UNIVERSAL HDR">
     <title lang="pt">Erin Brockovich - Uma Mulher de Talento</title>
   </programme>
