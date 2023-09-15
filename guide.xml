@@ -35,12 +35,31 @@
     <icon src="https://i.meuguia.tv/logos/new/tc3.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20230914170500 -0300" stop="20230914182500 -0300" channel="TV Globo">
-    <title lang="pt">Vale a Pena Ver de Novo</title>
-  </programme>
-  <programme start="20230914182500 -0300" stop="20230914191000 -0300" channel="TV Globo">
-    <title lang="pt">Amor Perfeito</title>
-  </programme>
+  <channel id="HBO HDR">
+    <display-name lang="pt">HBO HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hbo.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 HDR">
+    <display-name lang="pt">HBO 2 HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hb2.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO FAMILY HDR">
+    <display-name lang="pt">HBO FAMILY HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hfa.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO PLUS HDR">
+    <display-name lang="pt">HBO PLUS HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hpl.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO SIGNATURE HDR">
+    <display-name lang="pt">HBO SIGNATURE HDR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hfe.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20230914191000 -0300" stop="20230914194000 -0300" channel="TV Globo">
     <title lang="pt">RJ2</title>
   </programme>
@@ -752,9 +771,6 @@
   <programme start="20230919041500 -0300" stop="20230919055500 -0300" channel="TC CULT HDR">
     <title lang="pt">O Rebanho</title>
   </programme>
-  <programme start="20230914170500 -0300" stop="20230914184000 -0300" channel="TC FUN HDR">
-    <title lang="pt">A Família Addams</title>
-  </programme>
   <programme start="20230914184000 -0300" stop="20230914201500 -0300" channel="TC FUN HDR">
     <title lang="pt">Bob Esponja - O Filme</title>
   </programme>
@@ -1453,5 +1469,971 @@
   </programme>
   <programme start="20230919040500 -0300" stop="20230919061500 -0300" channel="TC TOUCH HDR">
     <title lang="pt">No Coração do Mundo</title>
+  </programme>
+  <programme start="20230914191500 -0300" stop="20230914210600 -0300" channel="HBO HDR">
+    <title lang="pt">O Amor Mandou Mensagem</title>
+  </programme>
+  <programme start="20230914210600 -0300" stop="20230914220000 -0300" channel="HBO HDR">
+    <title lang="pt">Lakers - Hora de Vencer : T2 EP6 - Acabem com L.A.</title>
+  </programme>
+  <programme start="20230914220000 -0300" stop="20230915000000 -0300" channel="HBO HDR">
+    <title lang="pt">Uncharted - Fora do Mapa</title>
+  </programme>
+  <programme start="20230915000000 -0300" stop="20230915020000 -0300" channel="HBO HDR">
+    <title lang="pt">Assassino sem Rastro</title>
+  </programme>
+  <programme start="20230915020000 -0300" stop="20230915040500 -0300" channel="HBO HDR">
+    <title lang="pt">Os Muitos Santos de Newark</title>
+  </programme>
+  <programme start="20230915040500 -0300" stop="20230915060000 -0300" channel="HBO HDR">
+    <title lang="pt">Sobrenatural - Capítulo 2</title>
+  </programme>
+  <programme start="20230915060000 -0300" stop="20230915070000 -0300" channel="HBO HDR">
+    <title lang="pt">Sarah Silverman - Alguém que Você Ama</title>
+  </programme>
+  <programme start="20230915070000 -0300" stop="20230915093000 -0300" channel="HBO HDR">
+    <title lang="pt">Falcão Negro em Perigo</title>
+  </programme>
+  <programme start="20230915093000 -0300" stop="20230915100500 -0300" channel="HBO HDR">
+    <title lang="pt">Greg News com Gregório Duvivier : T7 EP16 - Psicanálise!</title>
+  </programme>
+  <programme start="20230915100500 -0300" stop="20230915104500 -0300" channel="HBO HDR">
+    <title lang="pt">Pouca Fé : T1 - Março; Abril</title>
+  </programme>
+  <programme start="20230915104500 -0300" stop="20230915124000 -0300" channel="HBO HDR">
+    <title lang="pt">Fátima - A História de um Milagre</title>
+  </programme>
+  <programme start="20230915124000 -0300" stop="20230915151000 -0300" channel="HBO HDR">
+    <title lang="pt">Homem-Aranha: Sem Volta para Casa</title>
+  </programme>
+  <programme start="20230915151000 -0300" stop="20230915170500 -0300" channel="HBO HDR">
+    <title lang="pt">Tempestade - Planeta em Fúria</title>
+  </programme>
+  <programme start="20230915170500 -0300" stop="20230915190500 -0300" channel="HBO HDR">
+    <title lang="pt">Terremoto - A Falha de San Andreas</title>
+  </programme>
+  <programme start="20230915190500 -0300" stop="20230915212000 -0300" channel="HBO HDR">
+    <title lang="pt">Moonfall</title>
+  </programme>
+  <programme start="20230915212000 -0300" stop="20230915230000 -0300" channel="HBO HDR">
+    <title lang="pt">A Freira</title>
+  </programme>
+  <programme start="20230915230000 -0300" stop="20230915233500 -0300" channel="HBO HDR">
+    <title lang="pt">Greg News com Gregório Duvivier</title>
+  </programme>
+  <programme start="20230915233500 -0300" stop="20230916013500 -0300" channel="HBO HDR">
+    <title lang="pt">Nem um Passo em Falso</title>
+  </programme>
+  <programme start="20230916013500 -0300" stop="20230916042000 -0300" channel="HBO HDR">
+    <title lang="pt">Homem-Aranha: Sem Volta para Casa - Versão Estendida</title>
+  </programme>
+  <programme start="20230916042000 -0300" stop="20230916060000 -0300" channel="HBO HDR">
+    <title lang="pt">A Maldição da Chorona</title>
+  </programme>
+  <programme start="20230916060000 -0300" stop="20230916074200 -0300" channel="HBO HDR">
+    <title lang="pt">O Duque</title>
+  </programme>
+  <programme start="20230916074200 -0300" stop="20230916093500 -0300" channel="HBO HDR">
+    <title lang="pt">Morbius</title>
+  </programme>
+  <programme start="20230916093500 -0300" stop="20230916112000 -0300" channel="HBO HDR">
+    <title lang="pt">Dog - A Aventura de uma Vida</title>
+  </programme>
+  <programme start="20230916112000 -0300" stop="20230916130500 -0300" channel="HBO HDR">
+    <title lang="pt">A Morte do Demônio - A Ascensão</title>
+  </programme>
+  <programme start="20230916130500 -0300" stop="20230916144500 -0300" channel="HBO HDR">
+    <title lang="pt">A Freira</title>
+  </programme>
+  <programme start="20230916144500 -0300" stop="20230916164500 -0300" channel="HBO HDR">
+    <title lang="pt">Assassino sem Rastro</title>
+  </programme>
+  <programme start="20230916164500 -0300" stop="20230916172000 -0300" channel="HBO HDR">
+    <title lang="pt">Greg News com Gregório Duvivier</title>
+  </programme>
+  <programme start="20230916172000 -0300" stop="20230916193000 -0300" channel="HBO HDR">
+    <title lang="pt">Batman - O Retorno</title>
+  </programme>
+  <programme start="20230916193000 -0300" stop="20230916220000 -0300" channel="HBO HDR">
+    <title lang="pt">The Flash</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230917010000 -0300" channel="HBO HDR">
+    <title lang="pt">Batman</title>
+  </programme>
+  <programme start="20230917010000 -0300" stop="20230917030900 -0300" channel="HBO HDR">
+    <title lang="pt">Coringa</title>
+  </programme>
+  <programme start="20230917030900 -0300" stop="20230917050000 -0300" channel="HBO HDR">
+    <title lang="pt">Dog - A Aventura de uma Vida</title>
+  </programme>
+  <programme start="20230917050000 -0300" stop="20230917060000 -0300" channel="HBO HDR">
+    <title lang="pt">Atsuko Okatsuka - O Invasor</title>
+  </programme>
+  <programme start="20230917060000 -0300" stop="20230917072500 -0300" channel="HBO HDR">
+    <title lang="pt">O Mundo dos Esquecidos</title>
+  </programme>
+  <programme start="20230917072500 -0300" stop="20230917092000 -0300" channel="HBO HDR">
+    <title lang="pt">Maligno</title>
+  </programme>
+  <programme start="20230917092000 -0300" stop="20230917111500 -0300" channel="HBO HDR">
+    <title lang="pt">Tempestade - Planeta em Fúria</title>
+  </programme>
+  <programme start="20230917111500 -0300" stop="20230917125500 -0300" channel="HBO HDR">
+    <title lang="pt">65 - Ameaça Pré-Histórica</title>
+  </programme>
+  <programme start="20230917125500 -0300" stop="20230917133000 -0300" channel="HBO HDR">
+    <title lang="pt">Greg News com Gregório Duvivier</title>
+  </programme>
+  <programme start="20230917133000 -0300" stop="20230917161500 -0300" channel="HBO HDR">
+    <title lang="pt">Homem-Aranha: Sem Volta para Casa - Versão Estendida</title>
+  </programme>
+  <programme start="20230917161500 -0300" stop="20230917181500 -0300" channel="HBO HDR">
+    <title lang="pt">Uncharted - Fora do Mapa</title>
+  </programme>
+  <programme start="20230917181500 -0300" stop="20230917202500 -0300" channel="HBO HDR">
+    <title lang="pt">As Agentes 355</title>
+  </programme>
+  <programme start="20230917202500 -0300" stop="20230917220200 -0300" channel="HBO HDR">
+    <title lang="pt">65 - Ameaça Pré-Histórica</title>
+  </programme>
+  <programme start="20230917220200 -0300" stop="20230917230700 -0300" channel="HBO HDR">
+    <title lang="pt">Lakers - Hora de Vencer</title>
+  </programme>
+  <programme start="20230917230700 -0300" stop="20230918001200 -0300" channel="HBO HDR">
+    <title lang="pt">Lakers - Hora de Vencer</title>
+  </programme>
+  <programme start="20230918001200 -0300" stop="20230918020700 -0300" channel="HBO HDR">
+    <title lang="pt">Morbius</title>
+  </programme>
+  <programme start="20230918020700 -0300" stop="20230918041000 -0300" channel="HBO HDR">
+    <title lang="pt">Space Jam - Um Novo Legado</title>
+  </programme>
+  <programme start="20230918041000 -0300" stop="20230918060000 -0300" channel="HBO HDR">
+    <title lang="pt">Lilo, Lilo, Crocodilo</title>
+  </programme>
+  <programme start="20230918060000 -0300" stop="20230918082500 -0300" channel="HBO HDR">
+    <title lang="pt">Mulher-Maravilha</title>
+  </programme>
+  <programme start="20230918082500 -0300" stop="20230918100900 -0300" channel="HBO HDR">
+    <title lang="pt">A Morte do Demônio - A Ascensão</title>
+  </programme>
+  <programme start="20230918100900 -0300" stop="20230918124000 -0300" channel="HBO HDR">
+    <title lang="pt">I Wanna Dance with Somebody - A História de Whitney Houston</title>
+  </programme>
+  <programme start="20230918124000 -0300" stop="20230918143000 -0300" channel="HBO HDR">
+    <title lang="pt">O Amor Mandou Mensagem</title>
+  </programme>
+  <programme start="20230918143000 -0300" stop="20230918153500 -0300" channel="HBO HDR">
+    <title lang="pt">Lakers - Hora de Vencer</title>
+  </programme>
+  <programme start="20230918153500 -0300" stop="20230918174500 -0300" channel="HBO HDR">
+    <title lang="pt">O Contador</title>
+  </programme>
+  <programme start="20230918174500 -0300" stop="20230918184000 -0300" channel="HBO HDR">
+    <title lang="pt">30 Segundos</title>
+  </programme>
+  <programme start="20230918184000 -0300" stop="20230918194000 -0300" channel="HBO HDR">
+    <title lang="pt">Coisa de Menino : T1 EP2 - Minha Mãe, Meu Herói</title>
+  </programme>
+  <programme start="20230918194000 -0300" stop="20230918212900 -0300" channel="HBO HDR">
+    <title lang="pt">Dog - A Aventura de uma Vida</title>
+  </programme>
+  <programme start="20230918212900 -0300" stop="20230918220700 -0300" channel="HBO HDR">
+    <title lang="pt">Pouca Fé : T1 - Maio; Junho</title>
+  </programme>
+  <programme start="20230918220700 -0300" stop="20230918225500 -0300" channel="HBO HDR">
+    <title lang="pt">A Unidade</title>
+  </programme>
+  <programme start="20230918225500 -0300" stop="20230919003400 -0300" channel="HBO HDR">
+    <title lang="pt">A Morte do Demônio - A Ascensão</title>
+  </programme>
+  <programme start="20230919003400 -0300" stop="20230919022200 -0300" channel="HBO HDR">
+    <title lang="pt">Annabelle 3 - De Volta para Casa</title>
+  </programme>
+  <programme start="20230919022200 -0300" stop="20230919035200 -0300" channel="HBO HDR">
+    <title lang="pt">O Mistério de Grace</title>
+  </programme>
+  <programme start="20230919035200 -0300" stop="20230919060000 -0300" channel="HBO HDR">
+    <title lang="pt">Batman - O Retorno</title>
+  </programme>
+  <programme start="20230914193000 -0300" stop="20230914220500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Homem-Aranha: Sem Volta para Casa</title>
+  </programme>
+  <programme start="20230914220500 -0300" stop="20230914234700 -0300" channel="HBO 2 HDR">
+    <title lang="pt">A Freira</title>
+  </programme>
+  <programme start="20230914234700 -0300" stop="20230915022700 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Mulher-Maravilha 1984</title>
+  </programme>
+  <programme start="20230915022700 -0300" stop="20230915032200 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Lakers - Hora de Vencer : T2 EP6 - Acabem com L.A.</title>
+  </programme>
+  <programme start="20230915032200 -0300" stop="20230915060000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">O Pintassilgo</title>
+  </programme>
+  <programme start="20230915060000 -0300" stop="20230915075500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">O Caminho de Volta</title>
+  </programme>
+  <programme start="20230915075500 -0300" stop="20230915093500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">O Duque</title>
+  </programme>
+  <programme start="20230915093500 -0300" stop="20230915103000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Lakers - Hora de Vencer : T2 EP6 - Acabem com L.A.</title>
+  </programme>
+  <programme start="20230915103000 -0300" stop="20230915123500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Noite de Ano Novo</title>
+  </programme>
+  <programme start="20230915123500 -0300" stop="20230915142500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">O Amor Mandou Mensagem</title>
+  </programme>
+  <programme start="20230915142500 -0300" stop="20230915161000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">O Exorcista do Papa</title>
+  </programme>
+  <programme start="20230915161000 -0300" stop="20230915180000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Morbius</title>
+  </programme>
+  <programme start="20230915180000 -0300" stop="20230915190500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Coisa de Menino : T1 EP1 - O Homem do Futuro</title>
+  </programme>
+  <programme start="20230915190500 -0300" stop="20230915195700 -0300" channel="HBO 2 HDR">
+    <title lang="pt">30 Segundos</title>
+  </programme>
+  <programme start="20230915195700 -0300" stop="20230915220200 -0300" channel="HBO 2 HDR">
+    <title lang="pt">As Agentes 355</title>
+  </programme>
+  <programme start="20230915220200 -0300" stop="20230916000000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Assassino sem Rastro</title>
+  </programme>
+  <programme start="20230916000000 -0300" stop="20230916014500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">O Exorcista do Papa</title>
+  </programme>
+  <programme start="20230916014500 -0300" stop="20230916035500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Hereditário</title>
+  </programme>
+  <programme start="20230916035500 -0300" stop="20230916060000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Ouro e Cobiça</title>
+  </programme>
+  <programme start="20230916060000 -0300" stop="20230916090000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Alexandre</title>
+  </programme>
+  <programme start="20230916090000 -0300" stop="20230916093500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Greg News com Gregório Duvivier</title>
+  </programme>
+  <programme start="20230916093500 -0300" stop="20230916115000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">O Ataque</title>
+  </programme>
+  <programme start="20230916115000 -0300" stop="20230916123500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">A Unidade</title>
+  </programme>
+  <programme start="20230916123500 -0300" stop="20230916142200 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Contrato Perigoso</title>
+  </programme>
+  <programme start="20230916142200 -0300" stop="20230916161200 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Quero Matar Meu Chefe 2</title>
+  </programme>
+  <programme start="20230916161200 -0300" stop="20230916181200 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Juntos e Misturados</title>
+  </programme>
+  <programme start="20230916181200 -0300" stop="20230916201000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Space Jam - Um Novo Legado</title>
+  </programme>
+  <programme start="20230916201000 -0300" stop="20230916220000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Lilo, Lilo, Crocodilo</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230917001000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">O Pior Vizinho do Mundo</title>
+  </programme>
+  <programme start="20230917001000 -0300" stop="20230917015500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">A Noite do Jogo</title>
+  </programme>
+  <programme start="20230917015500 -0300" stop="20230917041000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Rede de Mentiras</title>
+  </programme>
+  <programme start="20230917041000 -0300" stop="20230917060000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Contrato Perigoso</title>
+  </programme>
+  <programme start="20230917060000 -0300" stop="20230917064500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">A Family Is a Family, Is a Family</title>
+  </programme>
+  <programme start="20230917064500 -0300" stop="20230917083000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Dog - A Aventura de uma Vida</title>
+  </programme>
+  <programme start="20230917083000 -0300" stop="20230917110000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">The Flash</title>
+  </programme>
+  <programme start="20230917110000 -0300" stop="20230917124000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">A Freira</title>
+  </programme>
+  <programme start="20230917124000 -0300" stop="20230917144000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Assassino sem Rastro</title>
+  </programme>
+  <programme start="20230917144000 -0300" stop="20230917164000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Noite sem Fim</title>
+  </programme>
+  <programme start="20230917164000 -0300" stop="20230917191000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">The Flash</title>
+  </programme>
+  <programme start="20230917191000 -0300" stop="20230917205500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">O Exorcista do Papa</title>
+  </programme>
+  <programme start="20230917205500 -0300" stop="20230917223500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">A Morte do Demônio - A Ascensão</title>
+  </programme>
+  <programme start="20230917223500 -0300" stop="20230917231000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Greg News com Gregório Duvivier</title>
+  </programme>
+  <programme start="20230917231000 -0300" stop="20230918005000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">A Freira</title>
+  </programme>
+  <programme start="20230918005000 -0300" stop="20230918032000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">The Flash</title>
+  </programme>
+  <programme start="20230918032000 -0300" stop="20230918060000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Tenet</title>
+  </programme>
+  <programme start="20230918060000 -0300" stop="20230918073500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">No Olho do Tornado</title>
+  </programme>
+  <programme start="20230918073500 -0300" stop="20230918091500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">A Lenda dos Guardiões</title>
+  </programme>
+  <programme start="20230918091500 -0300" stop="20230918111500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Uncharted - Fora do Mapa</title>
+  </programme>
+  <programme start="20230918111500 -0300" stop="20230918133000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Moonfall</title>
+  </programme>
+  <programme start="20230918133000 -0300" stop="20230918153000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Terremoto - A Falha de San Andreas</title>
+  </programme>
+  <programme start="20230918153000 -0300" stop="20230918181000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Homem-Aranha: Sem Volta para Casa - Versão Estendida</title>
+  </programme>
+  <programme start="20230918181000 -0300" stop="20230918201000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Blade II</title>
+  </programme>
+  <programme start="20230918201000 -0300" stop="20230918220000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Morbius</title>
+  </programme>
+  <programme start="20230918220000 -0300" stop="20230919001500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Moonfall</title>
+  </programme>
+  <programme start="20230919001500 -0300" stop="20230919021500 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Assassino sem Rastro</title>
+  </programme>
+  <programme start="20230919021500 -0300" stop="20230919040000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Poseidon</title>
+  </programme>
+  <programme start="20230919040000 -0300" stop="20230919060000 -0300" channel="HBO 2 HDR">
+    <title lang="pt">Maligno</title>
+  </programme>
+  <programme start="20230914181200 -0300" stop="20230914200000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">DC Liga dos Superpets</title>
+  </programme>
+  <programme start="20230914200000 -0300" stop="20230914213100 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">As Múmias e o Anel Perdido</title>
+  </programme>
+  <programme start="20230914213100 -0300" stop="20230914235600 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Animais Fantásticos - Os Segredos de Dumbledore</title>
+  </programme>
+  <programme start="20230914235600 -0300" stop="20230915015400 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Fome de Poder</title>
+  </programme>
+  <programme start="20230915015400 -0300" stop="20230915041200 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Speed Racer</title>
+  </programme>
+  <programme start="20230915041200 -0300" stop="20230915060000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">DC Liga dos Superpets</title>
+  </programme>
+  <programme start="20230915060000 -0300" stop="20230915075400 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Winter - O Golfinho</title>
+  </programme>
+  <programme start="20230915075400 -0300" stop="20230915092200 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Cegonhas - A História que Não te Contaram</title>
+  </programme>
+  <programme start="20230915092200 -0300" stop="20230915105200 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Começar de Novo</title>
+  </programme>
+  <programme start="20230915105200 -0300" stop="20230915122000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Amor Inesperado</title>
+  </programme>
+  <programme start="20230915122000 -0300" stop="20230915135000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">O Primeiro Amor</title>
+  </programme>
+  <programme start="20230915135000 -0300" stop="20230915152500 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">SCOOBY! O Filme</title>
+  </programme>
+  <programme start="20230915152500 -0300" stop="20230915164400 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">A Noiva Cadáver</title>
+  </programme>
+  <programme start="20230915164400 -0300" stop="20230915183000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Guiado pelo Luar</title>
+  </programme>
+  <programme start="20230915183000 -0300" stop="20230915200000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Inspetor Aranha</title>
+  </programme>
+  <programme start="20230915200000 -0300" stop="20230915212800 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Cegonhas - A História que Não te Contaram</title>
+  </programme>
+  <programme start="20230915212800 -0300" stop="20230915231100 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">A Sogra</title>
+  </programme>
+  <programme start="20230915231100 -0300" stop="20230916010800 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Miss Simpatia 2 - Armada e Poderosa</title>
+  </programme>
+  <programme start="20230916010800 -0300" stop="20230916025400 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Glitter - O Brilho de uma Estrela</title>
+  </programme>
+  <programme start="20230916025400 -0300" stop="20230916043000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Olha Quem Está Falando</title>
+  </programme>
+  <programme start="20230916043000 -0300" stop="20230916060000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Inspetor Aranha</title>
+  </programme>
+  <programme start="20230916060000 -0300" stop="20230916074700 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">DC Liga dos Superpets</title>
+  </programme>
+  <programme start="20230916074700 -0300" stop="20230916093200 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Jumanji</title>
+  </programme>
+  <programme start="20230916093200 -0300" stop="20230916114600 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Animais Fantásticos e Onde Habitam</title>
+  </programme>
+  <programme start="20230916114600 -0300" stop="20230916132400 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Dennis, o Pimentinha</title>
+  </programme>
+  <programme start="20230916132400 -0300" stop="20230916145100 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Amor Não Tem Idade</title>
+  </programme>
+  <programme start="20230916145100 -0300" stop="20230916163400 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Uma Aventura LEGO</title>
+  </programme>
+  <programme start="20230916163400 -0300" stop="20230916181300 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Pé Pequeno</title>
+  </programme>
+  <programme start="20230916181300 -0300" stop="20230916200000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Jumanji</title>
+  </programme>
+  <programme start="20230916200000 -0300" stop="20230916214800 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">DC Liga dos Superpets</title>
+  </programme>
+  <programme start="20230916214800 -0300" stop="20230917000200 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Animais Fantásticos e Onde Habitam</title>
+  </programme>
+  <programme start="20230917000200 -0300" stop="20230917021900 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Speed Racer</title>
+  </programme>
+  <programme start="20230917021900 -0300" stop="20230917035200 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">5000 Cobertas</title>
+  </programme>
+  <programme start="20230917035200 -0300" stop="20230917042100 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Bebês Clássicos - Canção de Ninar 2</title>
+  </programme>
+  <programme start="20230917042100 -0300" stop="20230917060000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Pé Pequeno</title>
+  </programme>
+  <programme start="20230917060000 -0300" stop="20230917073000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Piratas Pirados!</title>
+  </programme>
+  <programme start="20230917073000 -0300" stop="20230917090100 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">CJ7 - O Brinquedo Mágico</title>
+  </programme>
+  <programme start="20230917090100 -0300" stop="20230917102900 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">A Princesa Encantada - Era uma Vez?</title>
+  </programme>
+  <programme start="20230917102900 -0300" stop="20230917115900 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Inspetor Aranha</title>
+  </programme>
+  <programme start="20230917115900 -0300" stop="20230917131800 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">A Noiva Cadáver</title>
+  </programme>
+  <programme start="20230917131800 -0300" stop="20230917144900 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">As Múmias e o Anel Perdido</title>
+  </programme>
+  <programme start="20230917144900 -0300" stop="20230917163200 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Uma Aventura LEGO</title>
+  </programme>
+  <programme start="20230917163200 -0300" stop="20230917181100 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">A Lenda dos Guardiões</title>
+  </programme>
+  <programme start="20230917181100 -0300" stop="20230917200000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Os Smurfs 2</title>
+  </programme>
+  <programme start="20230917200000 -0300" stop="20230917213100 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">As Múmias e o Anel Perdido</title>
+  </programme>
+  <programme start="20230917213100 -0300" stop="20230917231500 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">O Mágico de Oz</title>
+  </programme>
+  <programme start="20230917231500 -0300" stop="20230918004800 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Licença para Casar</title>
+  </programme>
+  <programme start="20230918004800 -0300" stop="20230918024000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Meu Nome É Rádio</title>
+  </programme>
+  <programme start="20230918024000 -0300" stop="20230918041200 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Nancy Drew e o Mistério da Escada</title>
+  </programme>
+  <programme start="20230918041200 -0300" stop="20230918060000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Os Smurfs 2</title>
+  </programme>
+  <programme start="20230918060000 -0300" stop="20230918074300 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">LEGO Ninjago - O Filme</title>
+  </programme>
+  <programme start="20230918074300 -0300" stop="20230918093000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Jumanji</title>
+  </programme>
+  <programme start="20230918093000 -0300" stop="20230918112200 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Meu Nome É Rádio</title>
+  </programme>
+  <programme start="20230918112200 -0300" stop="20230918130000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Dennis, o Pimentinha</title>
+  </programme>
+  <programme start="20230918130000 -0300" stop="20230918151400 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">O Homem Bicentenário</title>
+  </programme>
+  <programme start="20230918151400 -0300" stop="20230918164800 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Scooby-Doo 2 - Monstros à Solta</title>
+  </programme>
+  <programme start="20230918164800 -0300" stop="20230918181700 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Cegonhas - A História que Não te Contaram</title>
+  </programme>
+  <programme start="20230918181700 -0300" stop="20230918200000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">LEGO Ninjago - O Filme</title>
+  </programme>
+  <programme start="20230918200000 -0300" stop="20230918214700 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Jumanji</title>
+  </programme>
+  <programme start="20230918214700 -0300" stop="20230918234500 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Fome de Poder</title>
+  </programme>
+  <programme start="20230918234500 -0300" stop="20230919012500 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Procura-se um Amor que Goste de Cachorros</title>
+  </programme>
+  <programme start="20230919012500 -0300" stop="20230919030100 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Olha Quem Está Falando</title>
+  </programme>
+  <programme start="20230919030100 -0300" stop="20230919043100 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Começar de Novo</title>
+  </programme>
+  <programme start="20230919043100 -0300" stop="20230919060000 -0300" channel="HBO FAMILY HDR">
+    <title lang="pt">Cegonhas - A História que Não te Contaram</title>
+  </programme>
+  <programme start="20230914190000 -0300" stop="20230914200000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Dia Um : T1 EP5 - Bombeira e RG Trans</title>
+  </programme>
+  <programme start="20230914200000 -0300" stop="20230914221500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Shazam!</title>
+  </programme>
+  <programme start="20230914221500 -0300" stop="20230915001000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Aves de Rapina - Arlequina e Sua Emancipação Fantabulosa</title>
+  </programme>
+  <programme start="20230915001000 -0300" stop="20230915022500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Trem-Bala</title>
+  </programme>
+  <programme start="20230915022500 -0300" stop="20230915040000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Resgate em Alta Velocidade</title>
+  </programme>
+  <programme start="20230915040000 -0300" stop="20230915060000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Segurando as Pontas</title>
+  </programme>
+  <programme start="20230915060000 -0300" stop="20230915080500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Sob Suspeita</title>
+  </programme>
+  <programme start="20230915080500 -0300" stop="20230915110000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">It - Capítulo 2</title>
+  </programme>
+  <programme start="20230915110000 -0300" stop="20230915130500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Liga da Justiça</title>
+  </programme>
+  <programme start="20230915130500 -0300" stop="20230915150500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Godzilla vs. Kong</title>
+  </programme>
+  <programme start="20230915150500 -0300" stop="20230915170500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Caminhos da Memória</title>
+  </programme>
+  <programme start="20230915170500 -0300" stop="20230915194500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Duna</title>
+  </programme>
+  <programme start="20230915194500 -0300" stop="20230915220000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Shazam! Fúria dos Deuses</title>
+  </programme>
+  <programme start="20230915220000 -0300" stop="20230916000500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Liga da Justiça</title>
+  </programme>
+  <programme start="20230916000500 -0300" stop="20230916015500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Convite Maldito</title>
+  </programme>
+  <programme start="20230916015500 -0300" stop="20230916041000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">V de Vingança</title>
+  </programme>
+  <programme start="20230916041000 -0300" stop="20230916060000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Raça das Trevas</title>
+  </programme>
+  <programme start="20230916060000 -0300" stop="20230916072500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Constantine - A Casa dos Mistérios</title>
+  </programme>
+  <programme start="20230916072500 -0300" stop="20230916092000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Mortal Kombat</title>
+  </programme>
+  <programme start="20230916092000 -0300" stop="20230916110000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Resident Evil 2 - Apocalipse</title>
+  </programme>
+  <programme start="20230916110000 -0300" stop="20230916123000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Mamãe</title>
+  </programme>
+  <programme start="20230916123000 -0300" stop="20230916140500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">O Sétimo Dia</title>
+  </programme>
+  <programme start="20230916140500 -0300" stop="20230916161000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Homem-Aranha</title>
+  </programme>
+  <programme start="20230916161000 -0300" stop="20230916180500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Desaparecida</title>
+  </programme>
+  <programme start="20230916180500 -0300" stop="20230916202000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Trem-Bala</title>
+  </programme>
+  <programme start="20230916202000 -0300" stop="20230916220000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Morte Morte Morte</title>
+  </programme>
+  <programme start="20230916220000 -0300" stop="20230916235500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Mortal Kombat</title>
+  </programme>
+  <programme start="20230916235500 -0300" stop="20230917025000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">It - Capítulo 2</title>
+  </programme>
+  <programme start="20230917025000 -0300" stop="20230917042000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Projeto X - Uma Festa Fora de Controle</title>
+  </programme>
+  <programme start="20230917042000 -0300" stop="20230917060000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Premonição</title>
+  </programme>
+  <programme start="20230917060000 -0300" stop="20230917074200 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Depois da Terra</title>
+  </programme>
+  <programme start="20230917074200 -0300" stop="20230917095500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Shazam! Fúria dos Deuses</title>
+  </programme>
+  <programme start="20230917095500 -0300" stop="20230917114000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">A Noite do Jogo</title>
+  </programme>
+  <programme start="20230917114000 -0300" stop="20230917134500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Godzilla</title>
+  </programme>
+  <programme start="20230917134500 -0300" stop="20230917155000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Kong - A Ilha da Caveira</title>
+  </programme>
+  <programme start="20230917155000 -0300" stop="20230917175000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Godzilla vs. Kong</title>
+  </programme>
+  <programme start="20230917175000 -0300" stop="20230917220000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Liga da Justiça de Zack Snyder</title>
+  </programme>
+  <programme start="20230917220000 -0300" stop="20230918002500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Jogador Nº 1</title>
+  </programme>
+  <programme start="20230918002500 -0300" stop="20230918023500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Adão Negro</title>
+  </programme>
+  <programme start="20230918023500 -0300" stop="20230918040200 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Legião dos Super Heróis</title>
+  </programme>
+  <programme start="20230918040200 -0300" stop="20230918060000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Cães de Guerra</title>
+  </programme>
+  <programme start="20230918060000 -0300" stop="20230918080000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Destino Especial</title>
+  </programme>
+  <programme start="20230918080000 -0300" stop="20230918100000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Ender's Game - O Jogo do Exterminador</title>
+  </programme>
+  <programme start="20230918100000 -0300" stop="20230918112500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Premonição 4</title>
+  </programme>
+  <programme start="20230918112500 -0300" stop="20230918130300 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">The Weeknd - Ao Vivo do Sofi Stadium</title>
+  </programme>
+  <programme start="20230918130300 -0300" stop="20230918151500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Shazam!</title>
+  </programme>
+  <programme start="20230918151500 -0300" stop="20230918181500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Batman</title>
+  </programme>
+  <programme start="20230918181500 -0300" stop="20230918191500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Dia Um : T1 EP5 - Bombeira e RG Trans</title>
+  </programme>
+  <programme start="20230918191500 -0300" stop="20230918201500 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Dia Um : T1 EP6 - Cão Guia e Voltar a Estudar</title>
+  </programme>
+  <programme start="20230918201500 -0300" stop="20230918220000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Fúria de Titãs 2</title>
+  </programme>
+  <programme start="20230918220000 -0300" stop="20230919003400 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Matrix - Resurrections</title>
+  </programme>
+  <programme start="20230919003400 -0300" stop="20230919022000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">CHIPS - O Filme</title>
+  </programme>
+  <programme start="20230919022000 -0300" stop="20230919042000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">A Lenda de Beowulf</title>
+  </programme>
+  <programme start="20230919042000 -0300" stop="20230919060000 -0300" channel="HBO PLUS HDR">
+    <title lang="pt">Segredo de Sangue</title>
+  </programme>
+  <programme start="20230914190500 -0300" stop="20230914200500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Perry Mason : T2 EP4 - Capítulo Doze</title>
+  </programme>
+  <programme start="20230914200500 -0300" stop="20230914210300 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Perry Mason : T2 EP5 - Capítulo Treze</title>
+  </programme>
+  <programme start="20230914210300 -0300" stop="20230914220400 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Perry Mason : T2 EP6 - Capítulo Catorze</title>
+  </programme>
+  <programme start="20230914220400 -0300" stop="20230914230500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Perry Mason : T2 EP7 - Capítulo Quinze</title>
+  </programme>
+  <programme start="20230914230500 -0300" stop="20230915000000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Perry Mason : T2 EP8 - Capítulo Dezesseis</title>
+  </programme>
+  <programme start="20230915000000 -0300" stop="20230915014600 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Paterno</title>
+  </programme>
+  <programme start="20230915014600 -0300" stop="20230915033800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Retirada</title>
+  </programme>
+  <programme start="20230915033800 -0300" stop="20230915043900 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Nikki Glaser - Impecavelmente Obscena</title>
+  </programme>
+  <programme start="20230915043900 -0300" stop="20230915060000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Filhas Roubadas - Sequestro pelo Boko Haram</title>
+  </programme>
+  <programme start="20230915060000 -0300" stop="20230915074300 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">No Corredor da Morte</title>
+  </programme>
+  <programme start="20230915074300 -0300" stop="20230915091000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Classe Ociosa</title>
+  </programme>
+  <programme start="20230915091000 -0300" stop="20230915111200 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Mary Tyler Moore - A Dama da TV</title>
+  </programme>
+  <programme start="20230915111200 -0300" stop="20230915122200 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Yvonne Orji - Totalmente Eu</title>
+  </programme>
+  <programme start="20230915122200 -0300" stop="20230915132200 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Frederick Douglass - Em Cinco Discursos</title>
+  </programme>
+  <programme start="20230915132200 -0300" stop="20230915143000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP1 - Os Herdeiros do Dragão</title>
+  </programme>
+  <programme start="20230915143000 -0300" stop="20230915152700 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP2 - O Príncipe Canalha</title>
+  </programme>
+  <programme start="20230915152700 -0300" stop="20230915163200 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP3 - O Segundo de Seu Nome</title>
+  </programme>
+  <programme start="20230915163200 -0300" stop="20230915173600 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP4 - O Rei do Mar Estreito</title>
+  </programme>
+  <programme start="20230915173600 -0300" stop="20230915183800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP5 - Iluminamos o Caminho</title>
+  </programme>
+  <programme start="20230915183800 -0300" stop="20230915194800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP6 - A Princesa e a Rainha</title>
+  </programme>
+  <programme start="20230915194800 -0300" stop="20230915204800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP7 - Driftmark</title>
+  </programme>
+  <programme start="20230915204800 -0300" stop="20230915215800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP8 - O Rei das Marés</title>
+  </programme>
+  <programme start="20230915215800 -0300" stop="20230915225800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP9 - O Conselho Verde</title>
+  </programme>
+  <programme start="20230915225800 -0300" stop="20230916000000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Casa do Dragão : T1 EP10 - A Rainha Preta</title>
+  </programme>
+  <programme start="20230916000000 -0300" stop="20230916014900 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Má Educação</title>
+  </programme>
+  <programme start="20230916014900 -0300" stop="20230916035000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">O Conto</title>
+  </programme>
+  <programme start="20230916035000 -0300" stop="20230916043500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Separados na Fronteira</title>
+  </programme>
+  <programme start="20230916043500 -0300" stop="20230916060000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Elefante</title>
+  </programme>
+  <programme start="20230916060000 -0300" stop="20230916070600 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Autoescola para Mulheres Sauditas</title>
+  </programme>
+  <programme start="20230916070600 -0300" stop="20230916085000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Music Box: Jagged</title>
+  </programme>
+  <programme start="20230916085000 -0300" stop="20230916095500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Atsuko Okatsuka - O Invasor</title>
+  </programme>
+  <programme start="20230916095500 -0300" stop="20230916115500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">O Palácio de Joe</title>
+  </programme>
+  <programme start="20230916115500 -0300" stop="20230916132200 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Mamãe Morta e Querida</title>
+  </programme>
+  <programme start="20230916132200 -0300" stop="20230916144800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">The Last of Us : T1 EP1 - Quando Estiver Perdido na Escuridão</title>
+  </programme>
+  <programme start="20230916144800 -0300" stop="20230916154800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">The Last of Us : T1 EP2 - Infectados</title>
+  </programme>
+  <programme start="20230916154800 -0300" stop="20230916171000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">The Last of Us : T1 EP3 - Por Muito, Muito Tempo</title>
+  </programme>
+  <programme start="20230916171000 -0300" stop="20230916180400 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">The Last of Us : T1 EP4 - Por Favor, Segure a Minha Mão</title>
+  </programme>
+  <programme start="20230916180400 -0300" stop="20230916191000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">The Last of Us : T1 EP5 - Resistir e Sobreviver</title>
+  </programme>
+  <programme start="20230916191000 -0300" stop="20230916201600 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">The Last of Us : T1 EP6 - Parentesco</title>
+  </programme>
+  <programme start="20230916201600 -0300" stop="20230916211800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">The Last of Us : T1 EP7 - O que Deixamos para Trás</title>
+  </programme>
+  <programme start="20230916211800 -0300" stop="20230916221700 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">The Last of Us : T1 EP8 - Quando Mais Precisamos</title>
+  </programme>
+  <programme start="20230916221700 -0300" stop="20230916231000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">The Last of Us : T1 EP9 - Procure a Luz</title>
+  </programme>
+  <programme start="20230916231000 -0300" stop="20230917000100 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Lakers - Hora de Vencer : T2 EP6 - Acabem com L.A.</title>
+  </programme>
+  <programme start="20230917000100 -0300" stop="20230917004800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Unidade</title>
+  </programme>
+  <programme start="20230917004800 -0300" stop="20230917012900 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Pouca Fé : T1 - Março; Abril</title>
+  </programme>
+  <programme start="20230917012900 -0300" stop="20230917035100 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Você Não Conhece o Jack</title>
+  </programme>
+  <programme start="20230917035100 -0300" stop="20230917060000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Prisioneiro para Sempre</title>
+  </programme>
+  <programme start="20230917060000 -0300" stop="20230917074300 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Icahn - O Bilionário Incansável</title>
+  </programme>
+  <programme start="20230917074300 -0300" stop="20230917091000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Classe Ociosa</title>
+  </programme>
+  <programme start="20230917091000 -0300" stop="20230917104300 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Totem</title>
+  </programme>
+  <programme start="20230917104300 -0300" stop="20230917114400 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP1 - Os Monstros</title>
+  </programme>
+  <programme start="20230917114400 -0300" stop="20230917124500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP2 - O Ensaio</title>
+  </programme>
+  <programme start="20230917124500 -0300" stop="20230917135000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP3 - Casamento de Connor</title>
+  </programme>
+  <programme start="20230917135000 -0300" stop="20230917145200 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP4 - Estados da Lua de Mel</title>
+  </programme>
+  <programme start="20230917145200 -0300" stop="20230917155500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP5 - Lista da Morte</title>
+  </programme>
+  <programme start="20230917155500 -0300" stop="20230917170000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP6 - Vivendo+</title>
+  </programme>
+  <programme start="20230917170000 -0300" stop="20230917180500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP7 - Festa Pré-Eleição</title>
+  </programme>
+  <programme start="20230917180500 -0300" stop="20230917191200 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP8 - A América Decide</title>
+  </programme>
+  <programme start="20230917191200 -0300" stop="20230917202800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP9 - Igreja e Estado</title>
+  </programme>
+  <programme start="20230917202800 -0300" stop="20230917220000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Succession : T4 EP10 - De Olhos Abertos</title>
+  </programme>
+  <programme start="20230917220000 -0300" stop="20230917234800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Paterno</title>
+  </programme>
+  <programme start="20230917234800 -0300" stop="20230918013700 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">O.G.</title>
+  </programme>
+  <programme start="20230918013700 -0300" stop="20230918030700 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Lenda do Submundo</title>
+  </programme>
+  <programme start="20230918030700 -0300" stop="20230918043200 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Verdade Sobre Robôs Assassinos</title>
+  </programme>
+  <programme start="20230918043200 -0300" stop="20230918060000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Deslizando - Encontros na Era Digital</title>
+  </programme>
+  <programme start="20230918060000 -0300" stop="20230918075100 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Confirmação</title>
+  </programme>
+  <programme start="20230918075100 -0300" stop="20230918093300 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Music Box: Jagged</title>
+  </programme>
+  <programme start="20230918093300 -0300" stop="20230918105800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Idade Dourada : T1 EP1 - Nunca o Novo</title>
+  </programme>
+  <programme start="20230918105800 -0300" stop="20230918114900 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Idade Dourada : T1 EP2 - Dinheiro Não É Tudo</title>
+  </programme>
+  <programme start="20230918114900 -0300" stop="20230918131100 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">30 monedas : T1 EP1 - Teias de Aranha</title>
+  </programme>
+  <programme start="20230918131100 -0300" stop="20230918141700 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">30 monedas : T1 EP2 - Ouija</title>
+  </programme>
+  <programme start="20230918141700 -0300" stop="20230918152500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">30 monedas : T1 EP3 - O Espelho</title>
+  </programme>
+  <programme start="20230918152500 -0300" stop="20230918162800 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">30 monedas : T1 EP4 - Memórias</title>
+  </programme>
+  <programme start="20230918162800 -0300" stop="20230918173100 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">30 monedas : T1 EP5 - O Duplo</title>
+  </programme>
+  <programme start="20230918173100 -0300" stop="20230918183100 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">30 monedas : T1 EP6 - Guerra Santa</title>
+  </programme>
+  <programme start="20230918183100 -0300" stop="20230918193700 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">30 monedas : T1 EP7 - A Caixa de Vidro</title>
+  </programme>
+  <programme start="20230918193700 -0300" stop="20230918204500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">30 monedas : T1 EP8 - Sacrifício</title>
+  </programme>
+  <programme start="20230918204500 -0300" stop="20230918221000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Idade Dourada : T1 EP1 - Nunca o Novo</title>
+  </programme>
+  <programme start="20230918221000 -0300" stop="20230918230000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Idade Dourada : T1 EP2 - Dinheiro Não É Tudo</title>
+  </programme>
+  <programme start="20230918230000 -0300" stop="20230919000000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Transamazônica - Uma Estrada para o Passado : Tudo Começa no Mar do Nordeste</title>
+  </programme>
+  <programme start="20230919000000 -0300" stop="20230919012500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Idade Dourada : T1 EP1 - Nunca o Novo</title>
+  </programme>
+  <programme start="20230919012500 -0300" stop="20230919021500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">A Idade Dourada : T1 EP2 - Dinheiro Não É Tudo</title>
+  </programme>
+  <programme start="20230919021500 -0300" stop="20230919031500 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Winning Time: The Rise of the Lakers Dynasty</title>
+  </programme>
+  <programme start="20230919031500 -0300" stop="20230919042000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Drew Michael - Vermelho Azul Verde</title>
+  </programme>
+  <programme start="20230919042000 -0300" stop="20230919060000 -0300" channel="HBO SIGNATURE HDR">
+    <title lang="pt">Meth Storm: Arkansas USA</title>
   </programme>
 </tv>
